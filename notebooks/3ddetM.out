@@ -773,3 +773,42 @@ Results for -0.29_-1.16: max 8.85 xc:-0.20, yc:-1.11 vc:297.34 a:453.12, b:226.1
  fit -0.61_-0.52 with 5 gaussians: bic:749716459.37 (-81682187.17)
  fit -0.61_-0.52 with 6 gaussians: bic:741997825.65 (-7718633.72)
  fit -0.61_-0.52 with 7 gaussians: bic:716055533.73 (-25942291.92)
+ fit -0.61_-0.52 with 8 gaussians: bic:708600916.34 (-7454617.39)
+ fit -0.61_-0.52 with 9 gaussians: bic:735082746.67 (26481830.33)
+Found 8 clouds in -0.61_-0.52 grid point
+Results for -0.61_-0.52: max 6.70 xc:-0.50, yc:-0.63 vc:94.98 a:511.27, b:226.10, c:180.39, sv:24.11
+Results for -0.61_-0.52: max 3.42 xc:-0.52, yc:-0.41 vc:61.62 a:601.53, b:69.47, c:132.73, sv:20.23
+Results for -0.61_-0.52: max 4.37 xc:-0.49, yc:-0.42 vc:47.26 a:532.75, b:200.23, c:204.70, sv:25.17
+Results for -0.61_-0.52: max 13.67 xc:-0.52, yc:-0.65 vc:264.06 a:567.36, b:94.88, c:507.15, sv:20.64
+Results for -0.61_-0.52: max 3.07 xc:-0.53, yc:-0.67 vc:346.50 a:587.67, b:-188.58, c:89.26, sv:32.07
+Results for -0.61_-0.52: max 3.61 xc:-0.48, yc:-0.56 vc:166.83 a:578.24, b:-51.37, c:218.03, sv:21.69
+Results for -0.61_-0.52: max 43.30 xc:-0.51, yc:-0.55 vc:235.82 a:622.66, b:106.44, c:400.70, sv:20.07
+Results for -0.61_-0.52: max 4.29 xc:-0.58, yc:-0.40 vc:262.22 a:556.29, b:483.94, c:385.14, sv:33.85
+multiprocessing.pool.RemoteTraceback: 
+"""
+Traceback (most recent call last):
+  File "/tools/anaconda3/lib/python3.7/multiprocessing/pool.py", line 121, in worker
+    result = (True, func(*args, **kwds))
+  File "/tools/anaconda3/lib/python3.7/multiprocessing/pool.py", line 44, in mapstar
+    return list(map(*args))
+  File "source_fitter3d.py", line 165, in loop
+    return [Xcloud,Ycloud,Vcloud,acloud,bcloud,ccloud,Svcloud,Acloud]
+UnboundLocalError: local variable 'Xcloud' referenced before assignment
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "source_fitter3d.py", line 177, in <module>
+    res=pool.map(loop,xy)
+  File "/tools/anaconda3/lib/python3.7/multiprocessing/pool.py", line 268, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+  File "/tools/anaconda3/lib/python3.7/multiprocessing/pool.py", line 657, in get
+    raise self._value
+  File "/tools/anaconda3/lib/python3.7/multiprocessing/pool.py", line 121, in worker
+    result = (True, func(*args, **kwds))
+  File "/tools/anaconda3/lib/python3.7/multiprocessing/pool.py", line 44, in mapstar
+    return list(map(*args))
+  File "source_fitter3d.py", line 165, in loop
+    return [Xcloud,Ycloud,Vcloud,acloud,bcloud,ccloud,Svcloud,Acloud]
+UnboundLocalError: local variable 'Xcloud' referenced before assignment

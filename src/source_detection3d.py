@@ -82,8 +82,8 @@ print(f"Starting the detection of 3d clouds in a grid starting from {xgrid0},{yg
 
 
 rms=0.000247108285
-er=3*rms
-rms3=3*rms
+er=2.5*rms
+rms3=2.5*rms
 ncrit=300
 maxN=args.maxN
 def loop(xy):
@@ -93,16 +93,16 @@ def loop(xy):
     tes=CO21.where((CO21.x>xx-Rg)&(CO21.x<xx+Rg)&(CO21.y>yy-Rg)&(CO21.y<yy+Rg),drop=True)
     #print(xx,yy,np.sum(tes['cube'].data>rms3))
     print(f"Trying grid point {name} ({xx-Rg:.2f} to {xx+Rg:.2f},{yy-Rg:.2f} to {yy+Rg:.2f}) (data-points (3s) {np.sum(tes['cube'].data>rms3)} ({np.sum(tes['cube'].data>rms3)/(2*Rg)**2:.2f} points/kpc2))")
-    
+    Xcloud=np.array([])
+    Ycloud=np.array([])
+    Vcloud=np.array([])
+    acloud=np.array([])
+    bcloud=np.array([])
+    ccloud=np.array([])
+    Svcloud=np.array([])
+    Acloud=np.array([])
     if (np.sum(tes['cube'].data>rms3)>ncrit):
-        Xcloud=np.array([])
-        Ycloud=np.array([])
-        Vcloud=np.array([])
-        acloud=np.array([])
-        bcloud=np.array([])
-        ccloud=np.array([])
-        Svcloud=np.array([])
-        Acloud=np.array([])
+        
         #Vg,Yg,Xg=np.meshgrid(tes.v,tes.y,tes.x)
         Vg,Yg,Xg=np.meshgrid(tes.v,tes.y,tes.x, indexing='ij')
         minbic=1e17
@@ -110,7 +110,7 @@ def loop(xy):
         N=1
         
         while True:
-            bounds=[[rms3,np.nanmax(tes['cube'].data)],[xx-Rg,xx+Rg],[yy-Rg,yy+Rg],[-400,400],[65,625],[-560,560],[65,625],[20,40]]*N
+            bounds=[[rms3,np.nanmax(tes['cube'].data)],[xx-Rg,xx+Rg],[yy-Rg,yy+Rg],[-400,400],[75,555],[-560,560],[75,555],[20,33]]*N
             
             sol=differential_evolution(L,bounds=bounds,args=(Xg,Yg,Vg,tes['cube'].data,er,N))
             params=sol.x
@@ -152,6 +152,8 @@ def loop(xy):
                 minbic=bic
                 bpars=params
                 N+=1
+    else:
+        print('Not enough points in {name}')
     return [Xcloud,Ycloud,Vcloud,acloud,bcloud,ccloud,Svcloud,Acloud]
 
 

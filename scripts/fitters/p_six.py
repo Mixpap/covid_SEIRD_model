@@ -1,22 +1,24 @@
 import numpy as np
 import math
 from scipy.interpolate import pchip
+from astropy.cosmology import WMAP9 as cosmo
+from astropy import units as u
 
 dic={'pa':{0.01:[69.85,[40,80],[70.5,15],True,[-10,10]],
                 0.3:[72.75,[40,80],[73,8],True,[-8,8]],
-                0.7:[72.1,[20,180],[72.1,0.5],False,[-1,1]],
+                0.57:[72.1,[20,180],[72.1,0.5],False,[-1,1]],
                   1.0:[145,[100,160],[125,20],True,[-15,15]],
                   #1.5:[145,[80,170],[120,20],True,[-15,15]],
                   2.0:[165.3,[140,185],[162,15],True,[-11,11]],
                   #2.5:[165.3,[140,185],[162,10],True,[-11,11]],
                 #3.5:[178.2,[165,190],[178.2,6],True],
-                  3.5:[176,[160,185],[178,8],True,[-5,5]],#check this
-                  4.1:[170,[150,185],[172,10],True,[-9,9]],
+                  3.5:[176,[170,185],[178,8],True,[-5,5]],#check this
+                  4.1:[170,[160,185],[172,10],True,[-9,9]],
                   5.3:[161.4,[130,180],[162,20],False,[-20,20]],  
                  11.8:[155,[151,190],[127,10],False,[-9.4,9.4]],13.3:[149,[70,200],[118,10],False,[-9.4,9.4]],14.7:[142,[70,200],[118,10],False,[-9.4,9.4]],16.2:[135,[70,200],[118,10],False,[-9.4,9.4]],17.7:[127,[70,200],[118,10],False,[-9.4,9.4]],19.2:[120,[70,200],[118,10],False,[-9.4,9.4]],20.6:[116,[70,200],[105,10],False,[-9.4,9.4]],22.1:[112,[70,200],[105,10],False,[-9.4,9.4]],23.6:[109,[70,200],[105,10],False,[-9.4,9.4]]},             
       'i':{0.01:[123.5,[100,150],[180-57,10],True,[-10,10]],
                 0.3:[124.6,[100,150],[180-56.3,10],True,[-10,10]],
-                0.7:[109,[90,180],[180-71.7,5],False,[-4.5,4.5]],
+                0.57:[109,[90,180],[180-71.7,5],False,[-4.5,4.5]],
                   1.0:[100,[90,140],[180-81.5,15],True,[-7,7]],
                  #1.5:[100,[90,150],[180-81.5,5],True,[-7,7]],
                   2.0:[110,[20,150],[180-70,15],True,[-12,12]],
@@ -77,3 +79,49 @@ def make_disks(params,R_disks,dR_disks,dic):
     i2[np.isnan(i2)]=i_d[np.isnan(i2)]
     
     return R_disks,i_d,pa_d,v_d,tanid2,vsini,np.tan(i1)**2,np.tan(i2)**2
+
+
+#import os
+#print(os.getcwd())
+datafolder='../data/NGC6328/other/'
+
+macc_HI_Vrot=np.loadtxt(datafolder+'macc_HI_Vrot.csv',delimiter=',')
+vc_HI_Vrot=np.loadtxt(datafolder+'vc_HI_Vrot.csv',delimiter=',')
+V_sys=4274
+
+min_to_kpc=(cosmo.angular_diameter_distance(0.014313)/u.radian).to(u.kpc/u.arcmin)
+sec_to_kpc=(cosmo.angular_diameter_distance(0.014313)/u.radian).to(u.kpc/u.arcsec)
+
+R_macc_HI=(macc_HI_Vrot[:,0])*u.arcmin*min_to_kpc
+V_macc_HI=macc_HI_Vrot[:,1]-V_sys
+
+R_vc_HI=(vc_HI_Vrot[:,0])*u.arcsec*sec_to_kpc
+V_vc_HI=vc_HI_Vrot[:,1]-V_sys-20
+
+Rm=np.abs(R_macc_HI.value)
+Rvc=np.abs(R_vc_HI.value)
+Vm_20=V_macc_HI/np.sin(np.radians(20))
+Vvc_20=V_vc_HI/np.sin(np.radians(20))
+HI_sigma=40
+Rc=20
+
+Rmf=Rm[(Rm>21)&(Rm<36)]
+Vmf=np.abs(Vm_20[(Rm>21)&(Rm<36)])
+Rvcf=Rvc[(Rvc>21)&(Rvc<36)]
+Vvcf=np.abs(Vvc_20[(Rvc>21)&(Rvc<36)])
+
+def HI(x):
+    #logM,a,logMvir,c=x[14:18]
+    logM=x[12]
+    a=x[13]
+    logMvir=x[14]
+    Vm=Vcirc(Rmf,4.1e8,logM,a,logMvir,8)
+    Vc=Vcirc(Rvcf,4.1e8,logM,a,logMvir,8)
+    return 0.5*np.sum((Vm-Vmf)**2)/40**2+0.5*np.sum((Vc-Vvcf)**2)/40**2#np.max(np.abs(Vm-np.abs(Vm_20[Rm>Rc])))
+
+def conmM(x):
+    logM=x[12]
+    logMvir=x[14]
+    #m=10**logM
+    #M=10**logMvir
+    return logMvir-logM

@@ -1,0 +1,907 @@
+Original Data Corrected Cube shape (123, 1680, 1680)
+Original Data UnCorrected Cube shape (123, 1680, 1680)
+RMS Noise in area {'x0': 300, 'y0': 600, 'dx': 200, 'dy': 500} 0.0002467646215950085
+RMS Noise in area {'x0': 1200, 'y0': 600, 'dx': 200, 'dy': 500} 0.00024745194844498736
+Mean RMS:  0.00024710828501999795
+0.0049988394749686926 kpc2 / beam
+7.82974432113402e-05 1 / pix2
+Starting the detection of 3d clouds in a grid starting from -0.61,-3.4 with a width of 0.16 (total grid points 234) with 36 cores (6.500000 grids/core)
+Trying grid point -0.29_-2.12 (-0.45 to -0.13,-2.28 to -1.96) (data-points (3s) 2951 (28818.36 points/kpc2))
+Trying grid point -0.61_-3.40 (-0.77 to -0.45,-3.56 to -3.24) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point -0.61_4.28 (-0.77 to -0.45,4.12 to 4.44) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point -0.61_2.36 (-0.77 to -0.45,2.20 to 2.52) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.03_-2.76 (-0.13 to 0.19,-2.92 to -2.60) (data-points (3s) 509 (4970.70 points/kpc2))
+Trying grid point -0.61_3.00 (-0.77 to -0.45,2.84 to 3.16) (data-points (3s) 2 (19.53 points/kpc2))
+Trying grid point -0.29_1.08 (-0.45 to -0.13,0.92 to 1.24) (data-points (3s) 1245 (12158.20 points/kpc2))
+Trying grid point -0.61_-0.20 (-0.77 to -0.45,-0.36 to -0.04) (data-points (3s) 550 (5371.09 points/kpc2))
+Trying grid point 0.03_-0.20 (-0.13 to 0.19,-0.36 to -0.04) (data-points (3s) 7429 (72548.83 points/kpc2))
+Trying grid point -0.29_1.72 (-0.45 to -0.13,1.56 to 1.88) (data-points (3s) 286 (2792.97 points/kpc2))
+Trying grid point -0.61_3.64 (-0.77 to -0.45,3.48 to 3.80) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point -0.29_-1.48 (-0.45 to -0.13,-1.64 to -1.32) (data-points (3s) 12451 (121591.80 points/kpc2))
+Trying grid point -0.29_0.44 (-0.45 to -0.13,0.28 to 0.60) (data-points (3s) 2924 (28554.69 points/kpc2))
+Trying grid point -0.29_-2.76 (-0.45 to -0.13,-2.92 to -2.60) (data-points (3s) 2637 (25751.95 points/kpc2))
+Trying grid point -0.29_2.36 (-0.45 to -0.13,2.20 to 2.52) (data-points (3s) 972 (9492.19 points/kpc2))
+Trying grid point -0.29_3.00 (-0.45 to -0.13,2.84 to 3.16) (data-points (3s) 465 (4541.02 points/kpc2))
+Trying grid point -0.61_-2.12 (-0.77 to -0.45,-2.28 to -1.96) (data-points (3s) 1 (9.77 points/kpc2))
+Trying grid point -0.29_3.64 (-0.45 to -0.13,3.48 to 3.80) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.03_2.36 (-0.13 to 0.19,2.20 to 2.52) (data-points (3s) 509 (4970.70 points/kpc2))
+Trying grid point -0.29_4.28 (-0.45 to -0.13,4.12 to 4.44) (data-points (3s) 0 (0.00 points/kpc2))Trying grid point 0.03_1.72 (-0.13 to 0.19,1.56 to 1.88) (data-points (3s) 1194 (11660.16 points/kpc2))
+
+Trying grid point 0.03_-2.12 (-0.13 to 0.19,-2.28 to -1.96) (data-points (3s) 306 (2988.28 points/kpc2))
+Trying grid point -0.29_-3.40 (-0.45 to -0.13,-3.56 to -3.24) (data-points (3s) 4213 (41142.58 points/kpc2))
+Trying grid point -0.61_1.72 (-0.77 to -0.45,1.56 to 1.88) (data-points (3s) 19 (185.55 points/kpc2))
+Trying grid point 0.03_-3.40 (-0.13 to 0.19,-3.56 to -3.24) (data-points (3s) 5411 (52841.80 points/kpc2))
+Trying grid point -0.29_-0.84 (-0.45 to -0.13,-1.00 to -0.68) (data-points (3s) 11576 (113046.88 points/kpc2))
+Trying grid point -0.61_2.68 (-0.77 to -0.45,2.52 to 2.84) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.03_0.44 (-0.13 to 0.19,0.28 to 0.60) (data-points (3s) 1963 (19169.92 points/kpc2))
+Trying grid point 0.03_-0.84 (-0.13 to 0.19,-1.00 to -0.68) (data-points (3s) 5709 (55751.95 points/kpc2))
+Trying grid point -0.29_-0.20 (-0.45 to -0.13,-0.36 to -0.04) (data-points (3s) 4464 (43593.75 points/kpc2))
+Trying grid point -0.29_2.04 (-0.45 to -0.13,1.88 to 2.20) (data-points (3s) 160 (1562.50 points/kpc2))
+Trying grid point -0.61_3.32 (-0.77 to -0.45,3.16 to 3.48) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point -0.61_-3.08 (-0.77 to -0.45,-3.24 to -2.92) (data-points (3s) 74 (722.66 points/kpc2))
+Trying grid point 0.03_1.08 (-0.13 to 0.19,0.92 to 1.24) (data-points (3s) 1051 (10263.67 points/kpc2))
+Trying grid point -0.61_4.60 (-0.77 to -0.45,4.44 to 4.76) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point -0.29_4.60 (-0.45 to -0.13,4.44 to 4.76) (data-points (3s) 153 (1494.14 points/kpc2))
+Trying grid point -0.61_2.04 (-0.77 to -0.45,1.88 to 2.20) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point -0.29_3.96 (-0.45 to -0.13,3.80 to 4.12) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point -0.61_3.96 (-0.77 to -0.45,3.80 to 4.12) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point -0.61_-1.80 (-0.77 to -0.45,-1.96 to -1.64) (data-points (3s) 88 (859.38 points/kpc2))
+Trying grid point -0.61_-1.48 (-0.77 to -0.45,-1.64 to -1.32) (data-points (3s) 908 (8867.19 points/kpc2))
+Trying grid point -0.61_0.44 (-0.77 to -0.45,0.28 to 0.60) (data-points (3s) 42 (410.16 points/kpc2))
+Trying grid point -0.61_-2.76 (-0.77 to -0.45,-2.92 to -2.60) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point -0.61_1.08 (-0.77 to -0.45,0.92 to 1.24) (data-points (3s) 198 (1933.59 points/kpc2))
+Trying grid point 0.03_-1.48 (-0.13 to 0.19,-1.64 to -1.32) (data-points (3s) 2630 (25683.59 points/kpc2))
+Trying grid point -0.61_-0.84 (-0.77 to -0.45,-1.00 to -0.68) (data-points (3s) 9789 (95595.70 points/kpc2))
+Trying grid point 0.03_3.00 (-0.13 to 0.19,2.84 to 3.16) (data-points (3s) 10 (97.66 points/kpc2))
+Trying grid point 0.35_-3.40 (0.19 to 0.51,-3.56 to -3.24) (data-points (3s) 4 (39.06 points/kpc2))
+Trying grid point 0.35_-2.12 (0.19 to 0.51,-2.28 to -1.96) (data-points (3s) 23 (224.61 points/kpc2))
+Trying grid point 0.35_-2.76 (0.19 to 0.51,-2.92 to -2.60) (data-points (3s) 99 (966.80 points/kpc2))
+Trying grid point 0.35_-1.48 (0.19 to 0.51,-1.64 to -1.32) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.35_0.44 (0.19 to 0.51,0.28 to 0.60) (data-points (3s) 1270 (12402.34 points/kpc2))
+Trying grid point 0.03_3.64 (-0.13 to 0.19,3.48 to 3.80) (data-points (3s) 6 (58.59 points/kpc2))
+Trying grid point 0.35_-0.20 (0.19 to 0.51,-0.36 to -0.04) (data-points (3s) 7971 (77841.80 points/kpc2))
+Trying grid point -0.61_0.76 (-0.77 to -0.45,0.60 to 0.92) (data-points (3s) 999 (9755.86 points/kpc2))
+Trying grid point 0.03_4.28 (-0.13 to 0.19,4.12 to 4.44) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point -0.61_1.40 (-0.77 to -0.45,1.24 to 1.56) (data-points (3s) 204 (1992.19 points/kpc2))
+Trying grid point 0.35_-1.80 (0.19 to 0.51,-1.96 to -1.64) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.03_3.32 (-0.13 to 0.19,3.16 to 3.48) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.35_-2.44 (0.19 to 0.51,-2.60 to -2.28) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.35_-0.84 (0.19 to 0.51,-1.00 to -0.68) (data-points (3s) 55 (537.11 points/kpc2))
+Trying grid point 0.35_-3.08 (0.19 to 0.51,-3.24 to -2.92) (data-points (3s) 1410 (13769.53 points/kpc2))
+Trying grid point 0.03_4.60 (-0.13 to 0.19,4.44 to 4.76) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point -0.61_-2.44 (-0.77 to -0.45,-2.60 to -2.28) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.03_3.96 (-0.13 to 0.19,3.80 to 4.12) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.35_3.00 (0.19 to 0.51,2.84 to 3.16) (data-points (3s) 5 (48.83 points/kpc2))
+Trying grid point 0.35_2.36 (0.19 to 0.51,2.20 to 2.52) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.35_4.28 (0.19 to 0.51,4.12 to 4.44) (data-points (3s) 58 (566.41 points/kpc2))
+Trying grid point 0.35_3.64 (0.19 to 0.51,3.48 to 3.80) (data-points (3s) 9 (87.89 points/kpc2))
+Trying grid point 0.67_-3.40 (0.51 to 0.83,-3.56 to -3.24) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.35_3.32 (0.19 to 0.51,3.16 to 3.48) (data-points (3s) 36 (351.56 points/kpc2))
+Trying grid point 0.35_2.68 (0.19 to 0.51,2.52 to 2.84) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.35_4.60 (0.19 to 0.51,4.44 to 4.76) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.35_3.96 (0.19 to 0.51,3.80 to 4.12) (data-points (3s) 720 (7031.25 points/kpc2))
+Trying grid point 0.35_-1.16 (0.19 to 0.51,-1.32 to -1.00) (data-points (3s) 700 (6835.94 points/kpc2))
+Trying grid point 0.67_-2.76 (0.51 to 0.83,-2.92 to -2.60) (data-points (3s) 612 (5976.56 points/kpc2))
+Trying grid point 0.67_-3.08 (0.51 to 0.83,-3.24 to -2.92) (data-points (3s) 585 (5712.89 points/kpc2))
+Trying grid point 0.35_-0.52 (0.19 to 0.51,-0.68 to -0.36) (data-points (3s) 1372 (13398.44 points/kpc2))
+Trying grid point 0.35_1.72 (0.19 to 0.51,1.56 to 1.88) (data-points (3s) 461 (4501.95 points/kpc2))
+Trying grid point 0.35_1.08 (0.19 to 0.51,0.92 to 1.24) (data-points (3s) 590 (5761.72 points/kpc2))
+Trying grid point 0.67_-2.12 (0.51 to 0.83,-2.28 to -1.96) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.67_-1.48 (0.51 to 0.83,-1.64 to -1.32) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.67_-1.80 (0.51 to 0.83,-1.96 to -1.64) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.67_-1.16 (0.51 to 0.83,-1.32 to -1.00) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.67_-0.84 (0.51 to 0.83,-1.00 to -0.68) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.67_-0.20 (0.51 to 0.83,-0.36 to -0.04) (data-points (3s) 273 (2666.02 points/kpc2))
+Trying grid point 0.67_-0.52 (0.51 to 0.83,-0.68 to -0.36) (data-points (3s) 1176 (11484.38 points/kpc2))
+Trying grid point 0.67_0.12 (0.51 to 0.83,-0.04 to 0.28) (data-points (3s) 21 (205.08 points/kpc2))
+Trying grid point 0.67_0.44 (0.51 to 0.83,0.28 to 0.60) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.67_0.76 (0.51 to 0.83,0.60 to 0.92) (data-points (3s) 73 (712.89 points/kpc2))
+Trying grid point 0.67_1.08 (0.51 to 0.83,0.92 to 1.24) (data-points (3s) 171 (1669.92 points/kpc2))
+Trying grid point 0.67_1.40 (0.51 to 0.83,1.24 to 1.56) (data-points (3s) 599 (5849.61 points/kpc2))
+ fit -0.29_-2.76 with 1 gaussians: bic:1342892881.64 (-99999998657107120.00)
+ fit 0.03_2.36 with 1 gaussians: bic:356125085.88 (-99999999643874912.00)
+ fit 0.03_-3.40 with 1 gaussians: bic:3143982203.98 (-99999996856017792.00)
+ fit 0.03_1.72 with 1 gaussians: bic:553219223.59 (-99999999446780784.00)
+ fit 0.35_-3.08 with 1 gaussians: bic:834364982.90 (-99999999165635024.00)
+ fit -0.29_2.36 with 1 gaussians: bic:693174499.80 (-99999999306825504.00)
+ fit 0.35_0.44 with 1 gaussians: bic:858395446.03 (-99999999141604560.00)
+ fit -0.29_-2.12 with 1 gaussians: bic:1666801543.12 (-99999998333198464.00)
+ fit -0.29_-0.84 with 1 gaussians: bic:8088121032.21 (-99999991911878960.00)
+ fit 0.03_-0.20 with 1 gaussians: bic:5551675246.61 (-99999994448324752.00)
+ fit 0.35_1.08 with 1 gaussians: bic:357095730.91 (-99999999642904272.00)
+ fit 0.03_-2.76 with 1 gaussians: bic:286738225.13 (-99999999713261776.00)
+ fit -0.29_-3.40 with 1 gaussians: bic:2469311804.64 (-99999997530688192.00)
+ fit -0.29_3.00 with 1 gaussians: bic:248115741.83 (-99999999751884256.00)
+ fit -0.61_-0.20 with 1 gaussians: bic:228209584.18 (-99999999771790416.00)
+ fit -0.61_-1.48 with 1 gaussians: bic:425756103.05 (-99999999574243904.00)
+ fit 0.03_1.08 with 1 gaussians: bic:728487827.49 (-99999999271512176.00)
+ fit 0.03_-2.12 with 1 gaussians: bic:110555618.86 (-99999999889444384.00)
+ fit 0.35_-0.52 with 1 gaussians: bic:922013651.99 (-99999999077986352.00)
+ fit -0.29_0.44 with 1 gaussians: bic:2067515714.28 (-99999997932484288.00)
+ fit 0.35_3.96 with 1 gaussians: bic:800728981.74 (-99999999199271024.00)
+ fit -0.29_-0.20 with 1 gaussians: bic:2191627405.08 (-99999997808372592.00)
+ fit 0.35_1.72 with 1 gaussians: bic:347765113.52 (-99999999652234880.00)
+ fit 0.03_0.44 with 1 gaussians: bic:1074592750.94 (-99999998925407248.00)
+ fit 0.67_1.40 with 1 gaussians: bic:758329343.65 (-99999999241670656.00)
+ fit 0.35_-1.16 with 1 gaussians: bic:301553425.37 (-99999999698446576.00)
+ fit -0.29_-1.48 with 1 gaussians: bic:5745705726.82 (-99999994254294272.00)
+ fit 0.35_-0.20 with 1 gaussians: bic:7141586668.04 (-99999992858413328.00)
+ fit -0.61_0.76 with 1 gaussians: bic:668826671.46 (-99999999331173328.00)
+ fit -0.29_1.08 with 1 gaussians: bic:741217637.06 (-99999999258782368.00)
+ fit 0.67_-3.08 with 1 gaussians: bic:386861393.60 (-99999999613138608.00)
+ fit -0.61_-0.84 with 1 gaussians: bic:4654645445.44 (-99999995345354560.00)
+ fit 0.67_-2.76 with 1 gaussians: bic:574739026.06 (-99999999425260976.00)
+ fit 0.67_-0.52 with 1 gaussians: bic:633797937.02 (-99999999366202064.00)
+ fit 0.03_-0.84 with 1 gaussians: bic:2938707580.39 (-99999997061292416.00)
+ fit 0.03_-1.48 with 1 gaussians: bic:1228540341.41 (-99999998771459664.00)
+ fit -0.29_-2.12 with 2 gaussians: bic:1491585571.98 (-175215971.14)
+ fit 0.35_1.08 with 2 gaussians: bic:326092107.58 (-31003623.33)
+ fit 0.35_-3.08 with 2 gaussians: bic:795806928.62 (-38558054.27)
+ fit -0.61_-0.20 with 2 gaussians: bic:210036389.83 (-18173194.35)
+ fit 0.35_3.96 with 2 gaussians: bic:794826728.46 (-5902253.27)
+ fit -0.29_1.08 with 2 gaussians: bic:691670645.89 (-49546991.17)
+ fit 0.03_-0.20 with 2 gaussians: bic:3857049742.21 (-1694625504.40)
+ fit -0.61_-1.48 with 2 gaussians: bic:376427387.43 (-49328715.61)
+ fit 0.67_1.40 with 2 gaussians: bic:686091967.53 (-72237376.12)
+ fit 0.35_-1.16 with 2 gaussians: bic:275939915.32 (-25613510.05)
+ fit 0.35_0.44 with 2 gaussians: bic:630339221.34 (-228056224.70)
+ fit 0.35_1.72 with 2 gaussians: bic:339323413.88 (-8441699.64)
+ fit -0.29_2.36 with 2 gaussians: bic:572384484.92 (-120790014.87)
+ fit 0.03_1.08 with 2 gaussians: bic:670482103.00 (-58005724.49)
+ fit -0.29_0.44 with 2 gaussians: bic:1743461522.93 (-324054191.35)
+ fit 0.03_-1.48 with 2 gaussians: bic:1022788657.07 (-205751684.34)
+ fit 0.03_-3.40 with 2 gaussians: bic:2865729453.75 (-278252750.23)
+ fit -0.29_-3.40 with 2 gaussians: bic:2218275952.55 (-251035852.09)
+ fit 0.03_-2.76 with 2 gaussians: bic:257545946.61 (-29192278.52)
+ fit 0.35_-0.52 with 2 gaussians: bic:708407460.01 (-213606191.98)
+ fit -0.29_-2.76 with 2 gaussians: bic:1085797496.53 (-257095385.12)
+ fit -0.29_-0.20 with 2 gaussians: bic:1606013183.05 (-585614222.03)
+ fit 0.67_-2.76 with 2 gaussians: bic:522186423.99 (-52552602.07)
+ fit 0.03_1.72 with 2 gaussians: bic:515010019.39 (-38209204.20)
+ fit 0.03_2.36 with 2 gaussians: bic:280073009.73 (-76052076.15)
+ fit 0.03_-2.12 with 2 gaussians: bic:101209884.90 (-9345733.97)
+ fit -0.29_-1.48 with 2 gaussians: bic:3200104663.49 (-2545601063.33)
+ fit 0.35_-0.20 with 2 gaussians: bic:4883251141.05 (-2258335526.98)
+ fit -0.29_3.00 with 2 gaussians: bic:223593597.87 (-24522143.95)
+ fit 0.03_0.44 with 2 gaussians: bic:743394825.65 (-331197925.29)
+ fit 0.67_-0.52 with 2 gaussians: bic:562020188.81 (-71777748.21)
+ fit -0.61_-0.84 with 2 gaussians: bic:3481779640.05 (-1172865805.39)
+ fit 0.67_-3.08 with 2 gaussians: bic:375809810.11 (-11051583.49)
+ fit -0.61_0.76 with 2 gaussians: bic:439189807.45 (-229636864.01)
+ fit 0.03_-0.84 with 2 gaussians: bic:2476057548.79 (-462650031.60)
+ fit -0.29_-0.84 with 2 gaussians: bic:4284707351.99 (-3803413680.22)
+ fit -0.29_-2.12 with 3 gaussians: bic:1435568172.28 (-56017399.70)
+ fit 0.35_3.96 with 3 gaussians: bic:802676936.85 (7850208.39)
+Found 2 clouds in 0.35_3.96 grid point
+Results for 0.35_3.96: max 2.50 xc:0.43, yc:4.00 vc:335.09 a:522.76, b:-377.82, c:520.58, sv:21.32
+Results for 0.35_3.96: max 6.38 xc:0.44, yc:4.01 vc:-264.44 a:439.10, b:-124.37, c:548.34, sv:20.00
+Trying grid point 0.67_1.72 (0.51 to 0.83,1.56 to 1.88) (data-points (3s) 184 (1796.88 points/kpc2))
+Trying grid point 0.67_2.04 (0.51 to 0.83,1.88 to 2.20) (data-points (3s) 98 (957.03 points/kpc2))
+Trying grid point 0.67_2.36 (0.51 to 0.83,2.20 to 2.52) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.67_2.68 (0.51 to 0.83,2.52 to 2.84) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.67_3.00 (0.51 to 0.83,2.84 to 3.16) (data-points (3s) 0 (0.00 points/kpc2))
+ fit 0.35_1.08 with 3 gaussians: bic:328188204.34 (2096096.76)
+Found 2 clouds in 0.35_1.08 grid point
+Results for 0.35_1.08: max 3.61 xc:0.26, yc:0.92 vc:-255.81 a:505.94, b:-253.83, c:270.20, sv:32.61
+Results for 0.35_1.08: max 5.38 xc:0.29, yc:1.04 vc:-204.38 a:546.45, b:-95.13, c:521.60, sv:20.31
+Trying grid point 0.67_3.32 (0.51 to 0.83,3.16 to 3.48) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.67_3.64 (0.51 to 0.83,3.48 to 3.80) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.35_1.40 (0.19 to 0.51,1.24 to 1.56) (data-points (3s) 250 (2441.41 points/kpc2))
+Trying grid point 0.67_3.96 (0.51 to 0.83,3.80 to 4.12) (data-points (3s) 1339 (13076.17 points/kpc2))
+Trying grid point 0.67_4.28 (0.51 to 0.83,4.12 to 4.44) (data-points (3s) 161 (1572.27 points/kpc2))
+Trying grid point 0.67_4.60 (0.51 to 0.83,4.44 to 4.76) (data-points (3s) 37 (361.33 points/kpc2))
+Trying grid point 0.99_-3.40 (0.83 to 1.15,-3.56 to -3.24) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.99_-3.08 (0.83 to 1.15,-3.24 to -2.92) (data-points (3s) 100 (976.56 points/kpc2))
+Trying grid point 0.99_-2.76 (0.83 to 1.15,-2.92 to -2.60) (data-points (3s) 281 (2744.14 points/kpc2))
+Trying grid point 0.99_-2.44 (0.83 to 1.15,-2.60 to -2.28) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.99_-2.12 (0.83 to 1.15,-2.28 to -1.96) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.99_-1.80 (0.83 to 1.15,-1.96 to -1.64) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.99_-1.48 (0.83 to 1.15,-1.64 to -1.32) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.99_-1.16 (0.83 to 1.15,-1.32 to -1.00) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.99_-0.84 (0.83 to 1.15,-1.00 to -0.68) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.99_-0.52 (0.83 to 1.15,-0.68 to -0.36) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.99_-0.20 (0.83 to 1.15,-0.36 to -0.04) (data-points (3s) 13 (126.95 points/kpc2))
+Trying grid point 0.99_0.12 (0.83 to 1.15,-0.04 to 0.28) (data-points (3s) 398 (3886.72 points/kpc2))
+ fit 0.67_3.96 with 1 gaussians: bic:1177125109.69 (-99999998822874896.00)
+ fit 0.99_0.12 with 1 gaussians: bic:296564639.94 (-99999999703435360.00)
+ fit 0.03_1.72 with 3 gaussians: bic:516406386.15 (1396366.75)
+Found 2 clouds in 0.03_1.72 grid point
+Results for 0.03_1.72: max 9.22 xc:-0.02, yc:1.63 vc:-180.18 a:554.99, b:29.24, c:534.60, sv:22.50
+Results for 0.03_1.72: max 9.81 xc:-0.10, yc:1.56 vc:-163.17 a:251.93, b:-166.31, c:502.16, sv:23.48
+Trying grid point 0.03_2.04 (-0.13 to 0.19,1.88 to 2.20) (data-points (3s) 16 (156.25 points/kpc2))
+Trying grid point 0.99_0.44 (0.83 to 1.15,0.28 to 0.60) (data-points (3s) 501 (4892.58 points/kpc2))
+ fit 0.99_0.44 with 1 gaussians: bic:328387421.10 (-99999999671612576.00)
+ fit 0.03_1.08 with 3 gaussians: bic:615431060.13 (-55051042.87)
+ fit 0.03_-3.40 with 3 gaussians: bic:2769224096.24 (-96505357.50)
+ fit -0.29_0.44 with 3 gaussians: bic:1462428605.14 (-281032917.79)
+ fit 0.35_-3.08 with 3 gaussians: bic:783961381.53 (-11845547.09)
+ fit 0.67_1.40 with 3 gaussians: bic:660535775.13 (-25556192.40)
+ fit -0.29_1.08 with 3 gaussians: bic:627446880.92 (-64223764.97)
+ fit -0.29_-0.20 with 3 gaussians: bic:1483190756.66 (-122822426.39)
+ fit 0.03_-0.20 with 3 gaussians: bic:2620386598.68 (-1236663143.53)
+ fit 0.67_3.96 with 2 gaussians: bic:1122978788.79 (-54146320.90)
+ fit 0.03_-1.48 with 3 gaussians: bic:859175586.16 (-163613070.92)
+ fit -0.29_2.36 with 3 gaussians: bic:552008269.14 (-20376215.79)
+ fit 0.35_0.44 with 3 gaussians: bic:613227522.30 (-17111699.03)
+ fit 0.35_-0.20 with 3 gaussians: bic:3011245983.96 (-1872005157.09)
+ fit 0.67_-0.52 with 3 gaussians: bic:561534204.02 (-485984.79)
+ fit 0.99_0.44 with 2 gaussians: bic:316467505.03 (-11919916.07)
+ fit 0.99_0.12 with 2 gaussians: bic:276618127.04 (-19946512.89)
+ fit 0.35_-0.52 with 3 gaussians: bic:655668282.94 (-52739177.07)
+ fit 0.03_-2.76 with 3 gaussians: bic:260646616.74 (3100670.13)
+Found 2 clouds in 0.03_-2.76 grid point
+Results for 0.03_-2.76: max 8.80 xc:-0.13, yc:-2.80 vc:217.55 a:554.58, b:137.38, c:529.06, sv:20.00
+Results for 0.03_-2.76: max 4.92 xc:-0.13, yc:-2.92 vc:272.61 a:551.75, b:533.48, c:122.10, sv:25.72
+Trying grid point 0.03_-2.44 (-0.13 to 0.19,-2.60 to -2.28) (data-points (3s) 1402 (13691.41 points/kpc2))
+ fit 0.03_-2.44 with 1 gaussians: bic:850781631.87 (-99999999149218368.00)
+ fit 0.03_-0.84 with 3 gaussians: bic:1549395845.21 (-926661703.57)
+ fit -0.61_-0.20 with 3 gaussians: bic:204786396.18 (-5249993.65)
+ fit -0.29_-3.40 with 3 gaussians: bic:2182318264.30 (-35957688.25)
+ fit 0.03_2.36 with 3 gaussians: bic:275819053.70 (-4253956.03)
+ fit 0.35_1.72 with 3 gaussians: bic:339396698.51 (73284.63)
+Found 2 clouds in 0.35_1.72 grid point
+Results for 0.35_1.72: max 6.23 xc:0.32, yc:1.82 vc:-200.02 a:545.11, b:508.73, c:548.57, sv:20.26
+Results for 0.35_1.72: max 3.08 xc:0.19, yc:1.88 vc:-153.20 a:505.26, b:-374.51, c:207.68, sv:25.33
+Trying grid point 0.35_2.04 (0.19 to 0.51,1.88 to 2.20) (data-points (3s) 78 (761.72 points/kpc2))
+Trying grid point 0.99_1.08 (0.83 to 1.15,0.92 to 1.24) (data-points (3s) 22 (214.84 points/kpc2))
+Trying grid point 0.99_1.40 (0.83 to 1.15,1.24 to 1.56) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.99_1.72 (0.83 to 1.15,1.56 to 1.88) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.99_2.04 (0.83 to 1.15,1.88 to 2.20) (data-points (3s) 33 (322.27 points/kpc2))
+Trying grid point 0.99_2.36 (0.83 to 1.15,2.20 to 2.52) (data-points (3s) 19 (185.55 points/kpc2))
+Trying grid point 0.99_2.68 (0.83 to 1.15,2.52 to 2.84) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.99_3.00 (0.83 to 1.15,2.84 to 3.16) (data-points (3s) 0 (0.00 points/kpc2))
+ fit -0.29_-2.76 with 3 gaussians: bic:1040149366.91 (-45648129.62)
+Trying grid point 0.99_3.32 (0.83 to 1.15,3.16 to 3.48) (data-points (3s) 53 (517.58 points/kpc2))
+Trying grid point 0.99_3.64 (0.83 to 1.15,3.48 to 3.80) (data-points (3s) 11 (107.42 points/kpc2))
+Trying grid point 0.99_3.96 (0.83 to 1.15,3.80 to 4.12) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.99_4.28 (0.83 to 1.15,4.12 to 4.44) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 0.99_4.60 (0.83 to 1.15,4.44 to 4.76) (data-points (3s) 1365 (13330.08 points/kpc2))
+ fit -0.29_3.00 with 3 gaussians: bic:222574429.51 (-1019168.36)
+ fit 0.99_4.60 with 1 gaussians: bic:1495865694.00 (-99999998504134304.00)
+ fit 0.03_-2.12 with 3 gaussians: bic:102266519.79 (1056634.89)
+Found 2 clouds in 0.03_-2.12 grid point
+Results for 0.03_-2.12: max 6.21 xc:-0.13, yc:-2.00 vc:216.09 a:549.82, b:-278.84, c:539.89, sv:26.75
+Results for 0.03_-2.12: max 3.52 xc:-0.13, yc:-1.97 vc:134.95 a:554.43, b:-342.83, c:446.03, sv:20.00
+Trying grid point 0.03_-1.80 (-0.13 to 0.19,-1.96 to -1.64) (data-points (3s) 1376 (13437.50 points/kpc2))
+ fit -0.61_-0.84 with 3 gaussians: bic:2859368270.76 (-622411369.29)
+ fit 0.35_-1.16 with 3 gaussians: bic:275497832.38 (-442082.94)
+ fit -0.61_-1.48 with 3 gaussians: bic:343081316.63 (-33346070.80)
+ fit 0.67_-2.76 with 3 gaussians: bic:522920418.13 (733994.14)
+Found 2 clouds in 0.67_-2.76 grid point
+Results for 0.67_-2.76: max 14.22 xc:0.80, yc:-2.92 vc:160.98 a:524.16, b:-122.11, c:533.60, sv:20.00
+Results for 0.67_-2.76: max 4.52 xc:0.65, yc:-2.82 vc:148.34 a:545.14, b:26.65, c:539.30, sv:20.00
+Trying grid point 0.67_-2.44 (0.51 to 0.83,-2.60 to -2.28) (data-points (3s) 0 (0.00 points/kpc2))
+ fit 0.03_-1.80 with 1 gaussians: bic:610515647.66 (-99999999389484352.00)
+Trying grid point 1.31_-3.40 (1.15 to 1.47,-3.56 to -3.24) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.31_-3.08 (1.15 to 1.47,-3.24 to -2.92) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.31_-2.76 (1.15 to 1.47,-2.92 to -2.60) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.31_-2.44 (1.15 to 1.47,-2.60 to -2.28) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.31_-2.12 (1.15 to 1.47,-2.28 to -1.96) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.31_-1.80 (1.15 to 1.47,-1.96 to -1.64) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.31_-1.48 (1.15 to 1.47,-1.64 to -1.32) (data-points (3s) 26 (253.91 points/kpc2))
+Trying grid point 1.31_-1.16 (1.15 to 1.47,-1.32 to -1.00) (data-points (3s) 18 (175.78 points/kpc2))
+Trying grid point 1.31_-0.84 (1.15 to 1.47,-1.00 to -0.68) (data-points (3s) 50 (488.28 points/kpc2))
+Trying grid point 1.31_-0.52 (1.15 to 1.47,-0.68 to -0.36) (data-points (3s) 14 (136.72 points/kpc2))
+Trying grid point 1.31_-0.20 (1.15 to 1.47,-0.36 to -0.04) (data-points (3s) 5 (48.83 points/kpc2))
+Trying grid point 1.31_0.12 (1.15 to 1.47,-0.04 to 0.28) (data-points (3s) 119 (1162.11 points/kpc2))
+Trying grid point 1.31_0.44 (1.15 to 1.47,0.28 to 0.60) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.31_0.76 (1.15 to 1.47,0.60 to 0.92) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.31_1.08 (1.15 to 1.47,0.92 to 1.24) (data-points (3s) 3 (29.30 points/kpc2))
+Trying grid point 1.31_1.40 (1.15 to 1.47,1.24 to 1.56) (data-points (3s) 8 (78.12 points/kpc2))
+Trying grid point 1.31_1.72 (1.15 to 1.47,1.56 to 1.88) (data-points (3s) 584 (5703.12 points/kpc2))
+ fit 1.31_1.72 with 1 gaussians: bic:526521935.07 (-99999999473478064.00)
+ fit -0.29_-1.48 with 3 gaussians: bic:2937411968.00 (-262692695.49)
+ fit 0.03_-2.44 with 2 gaussians: bic:703242457.38 (-147539174.49)
+ fit 0.03_0.44 with 3 gaussians: bic:717576145.40 (-25818680.25)
+ fit 0.99_4.60 with 2 gaussians: bic:1475059457.15 (-20806236.85)
+ fit 0.03_-1.80 with 2 gaussians: bic:584074584.49 (-26441063.16)
+ fit 1.31_1.72 with 2 gaussians: bic:511839783.96 (-14682151.12)
+ fit 0.67_3.96 with 3 gaussians: bic:1099530547.53 (-23448241.26)
+ fit 0.67_-3.08 with 3 gaussians: bic:361948807.49 (-13861002.62)
+ fit -0.61_0.76 with 3 gaussians: bic:424478549.91 (-14711257.55)
+ fit 0.03_-2.44 with 3 gaussians: bic:647343291.04 (-55899166.34)
+ fit 1.31_1.72 with 3 gaussians: bic:540643197.20 (28803413.25)
+Found 2 clouds in 1.31_1.72 grid point
+Results for 1.31_1.72: max 7.97 xc:1.39, yc:1.71 vc:-104.47 a:539.52, b:488.07, c:487.65, sv:20.00
+Results for 1.31_1.72: max 7.92 xc:1.47, yc:1.62 vc:-98.62 a:520.66, b:39.10, c:484.83, sv:20.00
+Trying grid point 1.31_2.04 (1.15 to 1.47,1.88 to 2.20) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.31_2.36 (1.15 to 1.47,2.20 to 2.52) (data-points (3s) 21 (205.08 points/kpc2))
+Trying grid point 1.31_2.68 (1.15 to 1.47,2.52 to 2.84) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.31_3.00 (1.15 to 1.47,2.84 to 3.16) (data-points (3s) 153 (1494.14 points/kpc2))
+Trying grid point 1.31_3.32 (1.15 to 1.47,3.16 to 3.48) (data-points (3s) 1020 (9960.94 points/kpc2))
+ fit 0.03_-3.40 with 4 gaussians: bic:2628211884.68 (-141012211.56)
+ fit 1.31_3.32 with 1 gaussians: bic:680033612.04 (-99999999319966384.00)
+ fit -0.29_0.44 with 4 gaussians: bic:1394396256.74 (-68032348.40)
+ fit 0.03_-0.20 with 4 gaussians: bic:2484603642.01 (-135782956.66)
+ fit -0.29_-0.84 with 3 gaussians: bic:2784214460.09 (-1500492891.90)
+ fit 0.99_0.44 with 3 gaussians: bic:322940053.92 (6472548.89)
+Found 2 clouds in 0.99_0.44 grid point
+Results for 0.99_0.44: max 8.07 xc:1.06, yc:0.49 vc:8.41 a:555.00, b:202.53, c:542.15, sv:20.00
+Results for 0.99_0.44: max 3.82 xc:1.02, yc:0.60 vc:-1.17 a:555.00, b:284.21, c:372.04, sv:20.00
+Trying grid point 0.99_0.76 (0.83 to 1.15,0.60 to 0.92) (data-points (3s) 4 (39.06 points/kpc2))
+Trying grid point 1.31_3.64 (1.15 to 1.47,3.48 to 3.80) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.31_3.96 (1.15 to 1.47,3.80 to 4.12) (data-points (3s) 5 (48.83 points/kpc2))
+Trying grid point 1.31_4.28 (1.15 to 1.47,4.12 to 4.44) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.31_4.60 (1.15 to 1.47,4.44 to 4.76) (data-points (3s) 21 (205.08 points/kpc2))
+Trying grid point 1.63_-3.40 (1.47 to 1.79,-3.56 to -3.24) (data-points (3s) 37 (361.33 points/kpc2))
+Trying grid point 1.63_-3.08 (1.47 to 1.79,-3.24 to -2.92) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.63_-2.76 (1.47 to 1.79,-2.92 to -2.60) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.63_-2.44 (1.47 to 1.79,-2.60 to -2.28) (data-points (3s) 495 (4833.98 points/kpc2))
+ fit 1.31_3.32 with 2 gaussians: bic:681954118.80 (1920506.76)
+Found 1 clouds in 1.31_3.32 grid point
+Results for 1.31_3.32: max 10.98 xc:1.28, yc:3.36 vc:-174.53 a:552.42, b:219.76, c:517.94, sv:20.00
+Trying grid point 1.63_-2.12 (1.47 to 1.79,-2.28 to -1.96) (data-points (3s) 721 (7041.02 points/kpc2))
+ fit 1.63_-2.12 with 1 gaussians: bic:508736358.89 (-99999999491263648.00)
+ fit 1.63_-2.44 with 1 gaussians: bic:371146649.81 (-99999999628853344.00)
+ fit 0.99_0.12 with 3 gaussians: bic:268738000.93 (-7880126.11)
+ fit 0.99_4.60 with 3 gaussians: bic:1475349934.95 (290477.80)
+Found 2 clouds in 0.99_4.60 grid point
+Results for 0.99_4.60: max 2.56 xc:0.90, yc:4.59 vc:63.25 a:311.08, b:114.52, c:542.84, sv:20.00
+Results for 0.99_4.60: max 11.69 xc:0.86, yc:4.62 vc:-221.14 a:245.61, b:530.28, c:540.38, sv:20.00
+Trying grid point 1.63_-1.48 (1.47 to 1.79,-1.64 to -1.32) (data-points (3s) 706 (6894.53 points/kpc2))
+ fit 0.03_-1.80 with 3 gaussians: bic:580326674.25 (-3747910.24)
+ fit 0.35_-3.08 with 4 gaussians: bic:780790777.43 (-3170604.11)
+ fit 1.63_-1.48 with 1 gaussians: bic:545758499.50 (-99999999454241504.00)
+ fit 1.63_-2.12 with 2 gaussians: bic:493306506.05 (-15429852.84)
+ fit -0.29_-0.20 with 4 gaussians: bic:1182848995.79 (-300341760.86)
+ fit 0.67_3.96 with 4 gaussians: bic:1109303264.13 (9772716.60)
+Found 3 clouds in 0.67_3.96 grid point
+Results for 0.67_3.96: max 2.50 xc:0.61, yc:4.05 vc:201.43 a:551.46, b:-206.34, c:407.44, sv:25.67
+Results for 0.67_3.96: max 3.94 xc:0.63, yc:4.06 vc:394.71 a:532.07, b:-374.24, c:368.37, sv:21.63
+Results for 0.67_3.96: max 10.17 xc:0.63, yc:4.06 vc:-258.68 a:530.84, b:-524.85, c:514.98, sv:20.00
+Trying grid point 1.63_-0.84 (1.47 to 1.79,-1.00 to -0.68) (data-points (3s) 16 (156.25 points/kpc2))
+Trying grid point 1.63_-0.52 (1.47 to 1.79,-0.68 to -0.36) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.63_-0.20 (1.47 to 1.79,-0.36 to -0.04) (data-points (3s) 8 (78.12 points/kpc2))
+Trying grid point 1.63_0.12 (1.47 to 1.79,-0.04 to 0.28) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.63_0.44 (1.47 to 1.79,0.28 to 0.60) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.63_0.76 (1.47 to 1.79,0.60 to 0.92) (data-points (3s) 9 (87.89 points/kpc2))
+Trying grid point 1.63_1.08 (1.47 to 1.79,0.92 to 1.24) (data-points (3s) 211 (2060.55 points/kpc2))
+Trying grid point 1.63_1.40 (1.47 to 1.79,1.24 to 1.56) (data-points (3s) 361 (3525.39 points/kpc2))
+ fit 1.63_1.40 with 1 gaussians: bic:210351720.61 (-99999999789648272.00)
+ fit 0.67_-0.52 with 4 gaussians: bic:572460278.73 (10926074.71)
+Found 3 clouds in 0.67_-0.52 grid point
+Results for 0.67_-0.52: max 13.94 xc:0.69, yc:-0.50 vc:82.60 a:320.18, b:-155.15, c:546.68, sv:20.00
+Results for 0.67_-0.52: max 6.76 xc:0.55, yc:-0.53 vc:108.93 a:437.49, b:-85.90, c:550.71, sv:20.54
+Results for 0.67_-0.52: max 2.50 xc:0.51, yc:-0.50 vc:359.67 a:452.48, b:-75.17, c:399.90, sv:20.44
+Trying grid point 1.63_1.72 (1.47 to 1.79,1.56 to 1.88) (data-points (3s) 271 (2646.48 points/kpc2))
+Trying grid point 1.63_2.04 (1.47 to 1.79,1.88 to 2.20) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.63_2.36 (1.47 to 1.79,2.20 to 2.52) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.63_2.68 (1.47 to 1.79,2.52 to 2.84) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.63_3.00 (1.47 to 1.79,2.84 to 3.16) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.63_3.32 (1.47 to 1.79,3.16 to 3.48) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.63_3.64 (1.47 to 1.79,3.48 to 3.80) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.63_3.96 (1.47 to 1.79,3.80 to 4.12) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.63_4.28 (1.47 to 1.79,4.12 to 4.44) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.63_4.60 (1.47 to 1.79,4.44 to 4.76) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_-3.40 (1.79 to 2.11,-3.56 to -3.24) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_-3.08 (1.79 to 2.11,-3.24 to -2.92) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_-2.76 (1.79 to 2.11,-2.92 to -2.60) (data-points (3s) 69 (673.83 points/kpc2))
+Trying grid point 1.95_-2.44 (1.79 to 2.11,-2.60 to -2.28) (data-points (3s) 129 (1259.77 points/kpc2))
+Trying grid point 1.95_-2.12 (1.79 to 2.11,-2.28 to -1.96) (data-points (3s) 126 (1230.47 points/kpc2))
+Trying grid point 1.95_-1.80 (1.79 to 2.11,-1.96 to -1.64) (data-points (3s) 436 (4257.81 points/kpc2))
+ fit 1.63_-1.48 with 2 gaussians: bic:502845874.27 (-42912625.22)
+ fit 1.95_-1.80 with 1 gaussians: bic:296423404.97 (-99999999703576592.00)
+ fit 1.63_-2.44 with 2 gaussians: bic:374308000.50 (3161350.69)
+Found 1 clouds in 1.63_-2.44 grid point
+Results for 1.63_-2.44: max 7.01 xc:1.70, yc:-2.43 vc:137.61 a:531.82, b:-216.55, c:545.47, sv:20.00
+Trying grid point 1.95_-1.48 (1.79 to 2.11,-1.64 to -1.32) (data-points (3s) 79 (771.48 points/kpc2))
+Trying grid point 1.95_-1.16 (1.79 to 2.11,-1.32 to -1.00) (data-points (3s) 43 (419.92 points/kpc2))
+Trying grid point 1.95_-0.84 (1.79 to 2.11,-1.00 to -0.68) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_-0.52 (1.79 to 2.11,-0.68 to -0.36) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_-0.20 (1.79 to 2.11,-0.36 to -0.04) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_0.12 (1.79 to 2.11,-0.04 to 0.28) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_0.44 (1.79 to 2.11,0.28 to 0.60) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_0.76 (1.79 to 2.11,0.60 to 0.92) (data-points (3s) 165 (1611.33 points/kpc2))
+Trying grid point 1.95_1.08 (1.79 to 2.11,0.92 to 1.24) (data-points (3s) 131 (1279.30 points/kpc2))
+Trying grid point 1.95_1.40 (1.79 to 2.11,1.24 to 1.56) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_1.72 (1.79 to 2.11,1.56 to 1.88) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_2.04 (1.79 to 2.11,1.88 to 2.20) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_2.36 (1.79 to 2.11,2.20 to 2.52) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_2.68 (1.79 to 2.11,2.52 to 2.84) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_3.00 (1.79 to 2.11,2.84 to 3.16) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_3.32 (1.79 to 2.11,3.16 to 3.48) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_3.64 (1.79 to 2.11,3.48 to 3.80) (data-points (3s) 0 (0.00 points/kpc2))
+ fit 1.63_1.40 with 2 gaussians: bic:210977620.86 (625900.25)
+Found 1 clouds in 1.63_1.40 grid point
+Results for 1.63_1.40: max 6.44 xc:1.49, yc:1.50 vc:-83.09 a:518.00, b:-150.91, c:463.06, sv:20.00
+Trying grid point 1.95_3.96 (1.79 to 2.11,3.80 to 4.12) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_4.28 (1.79 to 2.11,4.12 to 4.44) (data-points (3s) 0 (0.00 points/kpc2))
+Trying grid point 1.95_4.60 (1.79 to 2.11,4.44 to 4.76) (data-points (3s) 15 (146.48 points/kpc2))
+ fit 0.35_0.44 with 4 gaussians: bic:545269126.98 (-67958395.32)
+ fit 0.03_1.08 with 4 gaussians: bic:604501768.14 (-10929291.99)
+ fit 0.67_1.40 with 4 gaussians: bic:660351706.79 (-184068.35)
+ fit 1.95_-1.80 with 2 gaussians: bic:297348755.87 (925350.91)
+Found 1 clouds in 1.95_-1.80 grid point
+Results for 1.95_-1.80: max 7.79 xc:1.79, yc:-1.69 vc:117.72 a:552.08, b:246.28, c:370.03, sv:20.00
+ fit 1.63_-2.12 with 3 gaussians: bic:487652023.67 (-5654482.38)
+ fit -0.29_-1.48 with 4 gaussians: bic:2782698664.04 (-154713303.96)
+ fit -0.29_2.36 with 4 gaussians: bic:522826225.03 (-29182044.11)
+ fit 0.03_-1.48 with 4 gaussians: bic:770053243.32 (-89122342.83)
+ fit -0.29_-3.40 with 4 gaussians: bic:2150279918.49 (-32038345.81)
+ fit -0.29_-2.12 with 4 gaussians: bic:1374713945.74 (-60854226.54)
+ fit -0.29_0.44 with 5 gaussians: bic:1398056957.80 (3660701.06)
+Found 4 clouds in -0.29_0.44 grid point
+Results for -0.29_0.44: max 7.75 xc:-0.17, yc:0.36 vc:-30.37 a:540.37, b:-347.97, c:185.74, sv:28.00
+Results for -0.29_0.44: max 9.45 xc:-0.35, yc:0.60 vc:-71.83 a:454.13, b:-49.63, c:101.74, sv:20.81
+Results for -0.29_0.44: max 3.44 xc:-0.28, yc:0.30 vc:107.00 a:239.75, b:267.82, c:335.99, sv:29.18
+Results for -0.29_0.44: max 18.98 xc:-0.33, yc:0.32 vc:-30.62 a:535.01, b:334.43, c:382.21, sv:20.25
+Trying grid point -0.29_0.76 (-0.45 to -0.13,0.60 to 0.92) (data-points (3s) 2972 (29023.44 points/kpc2))
+ fit 0.03_-2.44 with 4 gaussians: bic:613639282.38 (-33704008.66)
+ fit -0.29_0.76 with 1 gaussians: bic:1848043830.91 (-99999998151956176.00)
+ fit 0.03_-3.40 with 5 gaussians: bic:2639476927.17 (11265042.49)
+Found 4 clouds in 0.03_-3.40 grid point
+Results for 0.03_-3.40: max 11.99 xc:0.12, yc:-3.43 vc:264.11 a:549.43, b:-73.21, c:480.08, sv:24.03
+Results for 0.03_-3.40: max 7.92 xc:0.07, yc:-3.30 vc:269.07 a:470.82, b:-457.23, c:415.03, sv:27.14
+Results for 0.03_-3.40: max 7.35 xc:-0.09, yc:-3.24 vc:267.69 a:199.61, b:93.67, c:444.56, sv:26.91
+Results for 0.03_-3.40: max 12.13 xc:-0.06, yc:-3.45 vc:271.83 a:281.26, b:521.04, c:395.91, sv:21.48
+Trying grid point 0.03_-3.08 (-0.13 to 0.19,-3.24 to -2.92) (data-points (3s) 6655 (64990.23 points/kpc2))
+ fit 0.35_-0.20 with 4 gaussians: bic:2214420057.94 (-796825926.02)
+ fit -0.29_-2.76 with 4 gaussians: bic:1021144170.18 (-19005196.73)
+ fit 0.03_-3.08 with 1 gaussians: bic:3867930419.85 (-99999996132069584.00)
+ fit 1.63_-1.48 with 3 gaussians: bic:488320391.14 (-14525483.13)
+ fit 0.03_-0.84 with 4 gaussians: bic:1543232285.75 (-6163559.46)
+ fit -0.29_0.76 with 2 gaussians: bic:1669740902.39 (-178302928.52)
+ fit 0.35_-1.16 with 4 gaussians: bic:282027131.15 (6529298.77)
+Found 3 clouds in 0.35_-1.16 grid point
+Results for 0.35_-1.16: max 7.43 xc:0.19, yc:-1.10 vc:96.97 a:555.00, b:494.45, c:553.22, sv:20.33
+Results for 0.35_-1.16: max 5.40 xc:0.24, yc:-1.13 vc:152.25 a:458.54, b:-117.18, c:549.74, sv:24.74
+Results for 0.35_-1.16: max 2.50 xc:0.19, yc:-1.32 vc:133.10 a:453.01, b:-61.10, c:486.70, sv:22.13
+ fit 0.03_-0.20 with 5 gaussians: bic:1895670669.87 (-588932972.14)
+ fit -0.61_-0.20 with 4 gaussians: bic:201960244.81 (-2826151.37)
+ fit 0.03_-3.08 with 2 gaussians: bic:3466074951.78 (-401855468.07)
+ fit 0.03_2.36 with 4 gaussians: bic:275953950.86 (134897.16)
+Found 3 clouds in 0.03_2.36 grid point
+Results for 0.03_2.36: max 9.37 xc:-0.13, yc:2.52 vc:-257.05 a:536.76, b:-550.45, c:179.51, sv:20.00
+Results for 0.03_2.36: max 3.67 xc:0.09, yc:2.33 vc:-155.69 a:551.00, b:72.16, c:538.16, sv:33.00
+Results for 0.03_2.36: max 2.50 xc:-0.13, yc:2.52 vc:-109.63 a:552.74, b:124.89, c:399.51, sv:29.40
+Trying grid point 0.03_2.68 (-0.13 to 0.19,2.52 to 2.84) (data-points (3s) 2000 (19531.25 points/kpc2))
+ fit 0.03_2.68 with 1 gaussians: bic:995176983.35 (-99999999004823024.00)
+ fit 1.63_-2.12 with 4 gaussians: bic:487880195.42 (228171.74)
+Found 3 clouds in 1.63_-2.12 grid point
+Results for 1.63_-2.12: max 3.52 xc:1.73, yc:-2.11 vc:126.11 a:352.00, b:313.37, c:483.64, sv:20.00
+Results for 1.63_-2.12: max 2.50 xc:1.79, yc:-2.26 vc:22.78 a:423.31, b:-76.72, c:429.38, sv:27.55
+Results for 1.63_-2.12: max 5.30 xc:1.77, yc:-2.25 vc:129.57 a:355.53, b:266.26, c:499.08, sv:20.00
+Trying grid point 1.63_-1.80 (1.47 to 1.79,-1.96 to -1.64) (data-points (3s) 142 (1386.72 points/kpc2))
+ fit 0.35_-0.52 with 4 gaussians: bic:647644419.22 (-8023863.72)
+ fit -0.29_1.08 with 4 gaussians: bic:622659675.65 (-4787205.27)
+ fit 0.03_0.44 with 4 gaussians: bic:693241007.19 (-24335138.21)
+ fit -0.29_0.76 with 3 gaussians: bic:1655827348.48 (-13913553.91)
+ fit 0.03_2.68 with 2 gaussians: bic:907334569.58 (-87842413.76)
+ fit -0.29_-1.48 with 5 gaussians: bic:2706464908.98 (-76233755.06)
+ fit 0.03_-3.08 with 3 gaussians: bic:3184418221.11 (-281656730.68)
+ fit -0.61_-1.48 with 4 gaussians: bic:329680039.39 (-13401277.25)
+ fit 0.03_-1.80 with 4 gaussians: bic:563440718.78 (-16885955.47)
+ fit 0.35_0.44 with 5 gaussians: bic:555784022.71 (10514895.73)
+Found 4 clouds in 0.35_0.44 grid point
+Results for 0.35_0.44: max 11.15 xc:0.22, yc:0.44 vc:-222.43 a:538.02, b:532.70, c:537.30, sv:20.00
+Results for 0.35_0.44: max 2.50 xc:0.34, yc:0.31 vc:-103.74 a:520.65, b:361.62, c:473.30, sv:28.04
+Results for 0.35_0.44: max 9.31 xc:0.40, yc:0.59 vc:-218.10 a:547.47, b:-69.37, c:490.99, sv:30.35
+Results for 0.35_0.44: max 6.59 xc:0.19, yc:0.50 vc:-174.93 a:542.41, b:462.21, c:536.41, sv:22.55
+Trying grid point 0.35_0.76 (0.19 to 0.51,0.60 to 0.92) (data-points (3s) 2966 (28964.84 points/kpc2))
+ fit 0.35_0.76 with 1 gaussians: bic:980857920.10 (-99999999019142080.00)
+ fit 0.35_0.76 with 2 gaussians: bic:582221861.59 (-398636058.52)
+ fit -0.61_-0.84 with 4 gaussians: bic:2513713798.96 (-345654471.80)
+ fit 0.67_-3.08 with 4 gaussians: bic:358089827.38 (-3858980.11)
+ fit 0.03_2.68 with 3 gaussians: bic:842546228.36 (-64788341.23)
+ fit -0.61_0.76 with 4 gaussians: bic:417835268.74 (-6643281.16)
+ fit 0.03_-2.44 with 5 gaussians: bic:600265685.30 (-13373597.08)
+ fit -0.29_-0.20 with 5 gaussians: bic:1123555074.12 (-59293921.68)
+ fit 0.03_-3.08 with 4 gaussians: bic:2812629024.83 (-371789196.28)
+ fit -0.29_3.00 with 4 gaussians: bic:221111564.02 (-1462865.49)
+ fit -0.29_0.76 with 4 gaussians: bic:1591665205.61 (-64162142.87)
+ fit 0.35_0.76 with 3 gaussians: bic:523787005.70 (-58434855.89)
+ fit 1.63_-1.48 with 4 gaussians: bic:482265057.94 (-6055333.19)
+ fit 0.99_0.12 with 4 gaussians: bic:263319798.84 (-5418202.09)
+ fit 0.03_1.08 with 5 gaussians: bic:596171146.37 (-8330621.77)
+ fit 0.67_1.40 with 5 gaussians: bic:672458776.96 (12107070.17)
+Found 4 clouds in 0.67_1.40 grid point
+Results for 0.67_1.40: max 2.54 xc:0.52, yc:1.47 vc:-335.27 a:502.64, b:-204.73, c:345.89, sv:20.38
+Results for 0.67_1.40: max 7.47 xc:0.53, yc:1.49 vc:-104.06 a:503.42, b:261.76, c:426.54, sv:20.10
+Results for 0.67_1.40: max 6.38 xc:0.70, yc:1.46 vc:-100.61 a:550.34, b:288.56, c:530.51, sv:20.54
+Results for 0.67_1.40: max 3.84 xc:0.65, yc:1.24 vc:-76.62 a:186.70, b:26.05, c:481.34, sv:22.74
+ fit -0.29_-0.84 with 4 gaussians: bic:2452269935.67 (-331944524.42)
+ fit -0.29_-3.40 with 5 gaussians: bic:2120337803.49 (-29942114.99)
+ fit 0.03_-1.48 with 5 gaussians: bic:759504223.99 (-10549019.33)
+ fit 0.35_-0.20 with 5 gaussians: bic:2031218949.79 (-183201108.15)
+ fit 0.35_-3.08 with 5 gaussians: bic:776351353.21 (-4439424.22)
+ fit -0.29_-2.12 with 5 gaussians: bic:1308449497.06 (-66264448.68)
+ fit 0.03_2.68 with 4 gaussians: bic:828461908.55 (-14084319.81)
+ fit -0.29_-2.76 with 5 gaussians: bic:1005372435.29 (-15771734.89)
+ fit 0.03_-0.20 with 6 gaussians: bic:1802607890.45 (-93062779.42)
+ fit 0.35_0.76 with 4 gaussians: bic:519133757.76 (-4653247.94)
+ fit 0.03_-0.84 with 5 gaussians: bic:1281145950.98 (-262086334.77)
+ fit 0.35_-0.52 with 5 gaussians: bic:650534156.73 (2889737.51)
+Found 4 clouds in 0.35_-0.52 grid point
+Results for 0.35_-0.52: max 12.19 xc:0.19, yc:-0.45 vc:60.76 a:554.53, b:-32.82, c:482.62, sv:20.00
+Results for 0.35_-0.52: max 5.13 xc:0.35, yc:-0.48 vc:95.30 a:534.55, b:54.65, c:553.96, sv:32.95
+Results for 0.35_-0.52: max 7.63 xc:0.39, yc:-0.50 vc:88.58 a:510.69, b:538.24, c:551.56, sv:20.00
+Results for 0.35_-0.52: max 4.77 xc:0.45, yc:-0.60 vc:97.52 a:532.50, b:277.74, c:549.45, sv:26.41
+ fit 0.03_0.44 with 5 gaussians: bic:694057385.37 (816378.18)
+Found 4 clouds in 0.03_0.44 grid point
+Results for 0.03_0.44: max 3.10 xc:-0.13, yc:0.37 vc:-15.98 a:463.90, b:470.75, c:413.94, sv:26.86
+Results for 0.03_0.44: max 9.41 xc:-0.02, yc:0.60 vc:-103.64 a:165.19, b:24.80, c:549.53, sv:29.34
+Results for 0.03_0.44: max 28.06 xc:0.08, yc:0.60 vc:-180.15 a:365.05, b:559.50, c:440.04, sv:20.59
+Results for 0.03_0.44: max 4.80 xc:-0.11, yc:0.60 vc:-37.21 a:493.11, b:-330.67, c:480.95, sv:28.46
+Trying grid point 0.03_0.76 (-0.13 to 0.19,0.60 to 0.92) (data-points (3s) 2585 (25244.14 points/kpc2))
+ fit 0.03_0.76 with 1 gaussians: bic:1420735912.15 (-99999998579264080.00)
+ fit 0.03_0.76 with 2 gaussians: bic:951732426.91 (-469003485.23)
+ fit -0.29_0.76 with 5 gaussians: bic:1634999810.73 (43334605.13)
+Found 4 clouds in -0.29_0.76 grid point
+Results for -0.29_0.76: max 2.99 xc:-0.22, yc:0.91 vc:-88.64 a:287.81, b:-287.63, c:405.64, sv:23.00
+Results for -0.29_0.76: max 22.69 xc:-0.43, yc:0.70 vc:-75.27 a:304.42, b:409.42, c:296.48, sv:20.20
+Results for -0.29_0.76: max 12.06 xc:-0.39, yc:0.77 vc:-83.12 a:184.80, b:123.91, c:365.41, sv:20.07
+Results for -0.29_0.76: max 6.07 xc:-0.22, yc:0.70 vc:-88.06 a:485.57, b:125.49, c:238.10, sv:21.92
+ fit -0.29_2.36 with 5 gaussians: bic:508029659.53 (-14796565.50)
+ fit -0.29_1.08 with 5 gaussians: bic:623178922.56 (519246.91)
+Found 4 clouds in -0.29_1.08 grid point
+Results for -0.29_1.08: max 6.07 xc:-0.45, yc:0.94 vc:-104.16 a:512.88, b:127.59, c:446.27, sv:21.17
+Results for -0.29_1.08: max 3.62 xc:-0.23, yc:1.22 vc:-118.12 a:451.80, b:269.49, c:328.25, sv:28.73
+Results for -0.29_1.08: max 3.19 xc:-0.45, yc:1.17 vc:-111.31 a:452.27, b:14.53, c:516.51, sv:21.63
+Results for -0.29_1.08: max 14.05 xc:-0.26, yc:0.99 vc:-104.92 a:553.20, b:90.38, c:530.45, sv:20.43
+Trying grid point -0.29_1.40 (-0.45 to -0.13,1.24 to 1.56) (data-points (3s) 2126 (20761.72 points/kpc2))
+ fit -0.29_1.40 with 1 gaussians: bic:1125037027.09 (-99999998874962976.00)
+ fit 0.03_0.76 with 3 gaussians: bic:799051781.98 (-152680644.93)
+ fit -0.29_1.40 with 2 gaussians: bic:1006044013.41 (-118993013.68)
+ fit -0.61_-1.48 with 5 gaussians: bic:323446950.50 (-6233088.88)
+ fit 0.03_-1.80 with 5 gaussians: bic:572396798.88 (8956080.11)
+Found 4 clouds in 0.03_-1.80 grid point
+Results for 0.03_-1.80: max 2.50 xc:0.07, yc:-1.90 vc:229.79 a:521.68, b:281.81, c:298.25, sv:29.34
+Results for 0.03_-1.80: max 11.43 xc:0.09, yc:-1.89 vc:147.03 a:549.50, b:253.87, c:350.34, sv:21.06
+Results for 0.03_-1.80: max 2.50 xc:0.07, yc:-1.64 vc:174.77 a:494.94, b:188.05, c:542.81, sv:21.71
+Results for 0.03_-1.80: max 3.10 xc:-0.13, yc:-1.64 vc:122.72 a:355.35, b:-49.97, c:395.68, sv:26.40
+ fit -0.29_-1.48 with 6 gaussians: bic:2666195841.70 (-40269067.28)
+ fit 1.63_-1.48 with 5 gaussians: bic:489925745.76 (7660687.81)
+Found 4 clouds in 1.63_-1.48 grid point
+Results for 1.63_-1.48: max 2.50 xc:1.57, yc:-1.38 vc:114.99 a:553.16, b:-80.34, c:488.10, sv:20.00
+Results for 1.63_-1.48: max 4.37 xc:1.71, yc:-1.48 vc:99.31 a:503.96, b:-63.40, c:404.47, sv:20.00
+Results for 1.63_-1.48: max 9.41 xc:1.79, yc:-1.64 vc:108.33 a:534.11, b:-494.51, c:456.38, sv:20.00
+Results for 1.63_-1.48: max 3.25 xc:1.71, yc:-1.36 vc:90.06 a:538.14, b:67.20, c:433.44, sv:20.00
+Trying grid point 1.63_-1.16 (1.47 to 1.79,-1.32 to -1.00) (data-points (3s) 220 (2148.44 points/kpc2))
+ fit -0.29_1.40 with 3 gaussians: bic:977526055.90 (-28517957.50)
+ fit -0.61_-0.84 with 5 gaussians: bic:2349460409.94 (-164253389.02)
+ fit 0.03_-2.44 with 6 gaussians: bic:614389742.71 (14124057.41)
+Found 5 clouds in 0.03_-2.44 grid point
+Results for 0.03_-2.44: max 6.98 xc:-0.11, yc:-2.43 vc:224.30 a:438.57, b:12.00, c:533.11, sv:23.90
+Results for 0.03_-2.44: max 6.71 xc:0.04, yc:-2.50 vc:238.87 a:520.22, b:-112.29, c:537.12, sv:20.21
+Results for 0.03_-2.44: max 2.50 xc:0.19, yc:-2.60 vc:-128.64 a:530.90, b:328.96, c:479.65, sv:21.08
+Results for 0.03_-2.44: max 8.69 xc:-0.12, yc:-2.43 vc:144.27 a:517.61, b:5.78, c:470.55, sv:20.14
+Results for 0.03_-2.44: max 4.20 xc:0.05, yc:-2.50 vc:146.28 a:548.57, b:149.44, c:446.09, sv:22.47
+ fit 0.03_0.76 with 4 gaussians: bic:765581532.18 (-33470249.81)
+ fit 0.03_1.08 with 6 gaussians: bic:607834910.77 (11663764.41)
+Found 5 clouds in 0.03_1.08 grid point
+Results for 0.03_1.08: max 5.15 xc:0.16, yc:1.07 vc:-324.40 a:528.17, b:163.45, c:535.39, sv:22.06
+Results for 0.03_1.08: max 2.50 xc:0.19, yc:1.05 vc:-218.42 a:362.47, b:393.99, c:461.79, sv:25.98
+Results for 0.03_1.08: max 2.50 xc:-0.13, yc:0.97 vc:-148.93 a:452.63, b:158.40, c:430.98, sv:26.84
+Results for 0.03_1.08: max 5.74 xc:-0.13, yc:0.96 vc:-82.17 a:453.28, b:-24.87, c:382.79, sv:21.30
+Results for 0.03_1.08: max 9.13 xc:-0.05, yc:1.14 vc:-106.48 a:546.92, b:276.86, c:371.39, sv:20.07
+Trying grid point 0.03_1.40 (-0.13 to 0.19,1.24 to 1.56) (data-points (3s) 2302 (22480.47 points/kpc2))
+ fit 0.03_1.40 with 1 gaussians: bic:1329826404.08 (-99999998670173600.00)
+ fit -0.61_0.76 with 5 gaussians: bic:427659618.94 (9824350.20)
+Found 4 clouds in -0.61_0.76 grid point
+Results for -0.61_0.76: max 15.97 xc:-0.48, yc:0.86 vc:-107.41 a:551.19, b:280.67, c:498.72, sv:20.00
+Results for -0.61_0.76: max 13.42 xc:-0.45, yc:0.75 vc:-76.69 a:550.29, b:162.45, c:395.74, sv:21.21
+Results for -0.61_0.76: max 6.46 xc:-0.45, yc:0.68 vc:-60.16 a:554.85, b:-155.31, c:415.99, sv:21.13
+Results for -0.61_0.76: max 2.50 xc:-0.45, yc:0.73 vc:355.37 a:465.47, b:-27.65, c:277.73, sv:23.76
+ fit 0.03_-1.48 with 6 gaussians: bic:725503571.69 (-34000652.30)
+ fit 0.35_0.76 with 5 gaussians: bic:507381240.25 (-11752517.51)
+ fit 0.03_1.40 with 2 gaussians: bic:1155663815.84 (-174162588.24)
+ fit -0.61_-0.20 with 5 gaussians: bic:204065590.07 (2105345.25)
+Found 4 clouds in -0.61_-0.20 grid point
+Results for -0.61_-0.20: max 4.26 xc:-0.51, yc:-0.12 vc:176.20 a:550.98, b:65.52, c:552.74, sv:27.67
+Results for -0.61_-0.20: max 2.53 xc:-0.46, yc:-0.11 vc:11.15 a:530.50, b:-265.39, c:541.20, sv:30.02
+Results for -0.61_-0.20: max 2.66 xc:-0.49, yc:-0.10 vc:264.46 a:496.02, b:249.36, c:543.61, sv:20.94
+Results for -0.61_-0.20: max 4.63 xc:-0.49, yc:-0.09 vc:119.08 a:525.03, b:374.73, c:524.06, sv:21.05
+Trying grid point -0.61_0.12 (-0.77 to -0.45,-0.04 to 0.28) (data-points (3s) 4902 (47871.09 points/kpc2))
+ fit -0.61_0.12 with 1 gaussians: bic:3677985705.34 (-99999996322014288.00)
+ fit -0.61_0.12 with 2 gaussians: bic:2092006432.37 (-1585979272.97)
+ fit 0.99_0.12 with 5 gaussians: bic:263158304.45 (-161494.39)
+ fit 0.67_-3.08 with 5 gaussians: bic:360437298.26 (2347470.87)
+Found 4 clouds in 0.67_-3.08 grid point
+Results for 0.67_-3.08: max 3.01 xc:0.58, yc:-2.92 vc:162.55 a:519.92, b:128.72, c:466.11, sv:22.82
+Results for 0.67_-3.08: max 2.50 xc:0.83, yc:-2.93 vc:-200.65 a:377.89, b:4.04, c:422.80, sv:23.37
+Results for 0.67_-3.08: max 2.50 xc:0.81, yc:-2.93 vc:80.94 a:434.75, b:-45.29, c:407.74, sv:20.97
+Results for 0.67_-3.08: max 14.29 xc:0.80, yc:-2.93 vc:163.29 a:506.63, b:-87.00, c:542.28, sv:20.00
+ fit 0.03_1.40 with 3 gaussians: bic:1113527094.76 (-42136721.08)
+ fit -0.29_1.40 with 4 gaussians: bic:952668236.07 (-24857819.83)
+ fit -0.61_0.12 with 3 gaussians: bic:1828345028.79 (-263661403.58)
+ fit -0.29_3.00 with 5 gaussians: bic:220536304.30 (-575259.72)
+ fit 0.03_2.68 with 5 gaussians: bic:829718475.42 (1256566.88)
+Found 4 clouds in 0.03_2.68 grid point
+Results for 0.03_2.68: max 4.38 xc:-0.11, yc:2.75 vc:-222.02 a:454.27, b:548.92, c:287.43, sv:23.45
+Results for 0.03_2.68: max 5.36 xc:0.07, yc:2.53 vc:-147.40 a:549.66, b:101.98, c:483.38, sv:23.92
+Results for 0.03_2.68: max 9.17 xc:-0.13, yc:2.60 vc:-245.69 a:537.78, b:-370.00, c:186.49, sv:31.16
+Results for 0.03_2.68: max 5.98 xc:-0.09, yc:2.63 vc:-215.18 a:410.12, b:-532.37, c:537.10, sv:21.04
+ fit -0.29_-3.40 with 6 gaussians: bic:2159583929.64 (39246126.14)
+Found 5 clouds in -0.29_-3.40 grid point
+Results for -0.29_-3.40: max 9.58 xc:-0.18, yc:-3.43 vc:267.91 a:168.40, b:138.71, c:488.38, sv:25.09
+Results for -0.29_-3.40: max 3.42 xc:-0.20, yc:-3.34 vc:230.30 a:332.73, b:450.75, c:323.78, sv:29.61
+Results for -0.29_-3.40: max 3.66 xc:-0.31, yc:-3.40 vc:392.12 a:487.61, b:-72.92, c:467.09, sv:23.17
+Results for -0.29_-3.40: max 14.64 xc:-0.19, yc:-3.25 vc:269.84 a:222.30, b:104.00, c:425.11, sv:21.34
+Results for -0.29_-3.40: max 12.68 xc:-0.31, yc:-3.37 vc:265.20 a:492.17, b:-369.65, c:318.24, sv:20.78
+Trying grid point -0.29_-3.08 (-0.45 to -0.13,-3.24 to -2.92) (data-points (3s) 4202 (41035.16 points/kpc2))
+ fit -0.29_-0.84 with 5 gaussians: bic:2265925893.47 (-186344042.20)
+ fit -0.29_-2.12 with 6 gaussians: bic:1286482703.16 (-21966793.90)
+ fit -0.29_-3.08 with 1 gaussians: bic:2186918584.48 (-99999997813081408.00)
+ fit -0.29_-3.08 with 2 gaussians: bic:1955288726.14 (-231629858.34)
+ fit 0.03_-3.08 with 5 gaussians: bic:2603820016.97 (-208809007.85)
+ fit 0.03_1.40 with 4 gaussians: bic:1032081587.23 (-81445507.53)
+ fit -0.29_-3.08 with 3 gaussians: bic:1819992354.34 (-135296371.80)
+ fit -0.29_-2.76 with 6 gaussians: bic:1039699426.19 (34326990.90)
+Found 5 clouds in -0.29_-2.76 grid point
+Results for -0.29_-2.76: max 2.61 xc:-0.15, yc:-2.90 vc:205.83 a:505.28, b:-181.95, c:443.46, sv:25.51
+Results for -0.29_-2.76: max 8.58 xc:-0.19, yc:-2.74 vc:278.89 a:489.16, b:7.18, c:434.88, sv:20.19
+Results for -0.29_-2.76: max 9.01 xc:-0.15, yc:-2.92 vc:276.97 a:292.70, b:-345.94, c:381.07, sv:20.79
+Results for -0.29_-2.76: max 14.91 xc:-0.19, yc:-2.76 vc:214.89 a:256.78, b:169.26, c:372.54, sv:20.00
+Results for -0.29_-2.76: max 2.75 xc:-0.13, yc:-2.79 vc:-80.90 a:477.25, b:80.56, c:376.34, sv:21.55
+Trying grid point -0.29_-2.44 (-0.45 to -0.13,-2.60 to -2.28) (data-points (3s) 2877 (28095.70 points/kpc2))
+ fit -0.29_-2.44 with 1 gaussians: bic:1468367609.48 (-99999998531632384.00)
+ fit -0.61_0.12 with 4 gaussians: bic:1553435562.69 (-274909466.10)
+ fit -0.29_-2.44 with 2 gaussians: bic:1235696451.46 (-232671158.02)
+ fit -0.29_1.40 with 5 gaussians: bic:982445951.91 (29777715.83)
+Found 4 clouds in -0.29_1.40 grid point
+Results for -0.29_1.40: max 2.61 xc:-0.14, yc:1.33 vc:-198.47 a:448.27, b:278.71, c:219.77, sv:24.55
+Results for -0.29_1.40: max 7.34 xc:-0.14, yc:1.54 vc:-150.56 a:547.48, b:23.74, c:86.97, sv:20.20
+Results for -0.29_1.40: max 6.98 xc:-0.22, yc:1.27 vc:-126.45 a:509.56, b:-527.20, c:158.80, sv:20.07
+Results for -0.29_1.40: max 12.06 xc:-0.27, yc:1.36 vc:-131.84 a:358.55, b:-35.48, c:330.01, sv:20.14
+ fit 0.35_-0.20 with 6 gaussians: bic:1935533359.86 (-95685589.93)
+ fit -0.29_-0.20 with 6 gaussians: bic:1066643025.13 (-56912048.99)
+ fit 0.03_0.76 with 5 gaussians: bic:732746356.38 (-32835175.79)
+ fit -0.29_-2.44 with 3 gaussians: bic:1099563741.13 (-136132710.33)
+ fit 0.03_-0.84 with 6 gaussians: bic:1238126569.41 (-43019381.57)
+ fit 0.35_-3.08 with 6 gaussians: bic:785795120.00 (9443766.79)
+Found 5 clouds in 0.35_-3.08 grid point
+Results for 0.35_-3.08: max 2.50 xc:0.38, yc:-3.08 vc:294.46 a:515.71, b:-38.27, c:454.75, sv:20.25
+Results for 0.35_-3.08: max 3.17 xc:0.41, yc:-3.22 vc:241.26 a:388.93, b:342.42, c:484.06, sv:21.68
+Results for 0.35_-3.08: max 2.50 xc:0.38, yc:-3.05 vc:227.09 a:520.79, b:55.64, c:523.93, sv:20.21
+Results for 0.35_-3.08: max 3.06 xc:0.34, yc:-3.08 vc:237.51 a:476.27, b:-536.21, c:518.30, sv:21.69
+Results for 0.35_-3.08: max 5.85 xc:0.39, yc:-3.06 vc:226.63 a:496.36, b:287.99, c:484.80, sv:20.55
+ fit 0.03_-0.20 with 7 gaussians: bic:1664746583.61 (-137861306.84)
+ fit -0.29_-2.44 with 4 gaussians: bic:1081529446.79 (-18034294.34)
+ fit -0.29_2.36 with 6 gaussians: bic:504481407.99 (-3548251.54)
+ fit -0.29_-3.08 with 4 gaussians: bic:1695246929.02 (-124745425.33)
+ fit 0.35_0.76 with 6 gaussians: bic:510768666.85 (3387426.60)
+Found 5 clouds in 0.35_0.76 grid point
+Results for 0.35_0.76: max 5.80 xc:0.37, yc:0.72 vc:-169.82 a:530.47, b:-43.80, c:489.21, sv:32.24
+Results for 0.35_0.76: max 4.72 xc:0.36, yc:0.67 vc:-267.56 a:474.87, b:41.22, c:369.41, sv:21.22
+Results for 0.35_0.76: max 14.20 xc:0.37, yc:0.66 vc:-221.17 a:551.68, b:100.67, c:216.36, sv:24.84
+Results for 0.35_0.76: max 2.85 xc:0.37, yc:0.69 vc:-369.17 a:520.60, b:42.12, c:395.23, sv:28.65
+Results for 0.35_0.76: max 9.03 xc:0.37, yc:0.68 vc:-311.59 a:517.92, b:234.20, c:552.74, sv:25.59
+ fit -0.61_0.12 with 5 gaussians: bic:1601440821.18 (48005258.49)
+Found 4 clouds in -0.61_0.12 grid point
+Results for -0.61_0.12: max 14.46 xc:-0.46, yc:0.18 vc:162.43 a:535.42, b:468.43, c:384.81, sv:29.86
+Results for -0.61_0.12: max 6.68 xc:-0.46, yc:0.11 vc:80.27 a:167.00, b:91.84, c:176.16, sv:32.50
+Results for -0.61_0.12: max 15.38 xc:-0.47, yc:0.06 vc:178.93 a:177.13, b:359.84, c:507.96, sv:29.45
+Results for -0.61_0.12: max 26.26 xc:-0.58, yc:0.17 vc:236.21 a:554.41, b:342.95, c:385.84, sv:24.01
+ fit 0.03_1.40 with 5 gaussians: bic:1008990041.72 (-23091545.51)
+ fit -0.61_-1.48 with 6 gaussians: bic:331724238.93 (8277288.43)
+Found 5 clouds in -0.61_-1.48 grid point
+Results for -0.61_-1.48: max 2.83 xc:-0.45, yc:-1.53 vc:242.07 a:513.26, b:-122.53, c:489.00, sv:27.58
+Results for -0.61_-1.48: max 3.77 xc:-0.45, yc:-1.32 vc:195.37 a:554.30, b:477.35, c:223.77, sv:33.00
+Results for -0.61_-1.48: max 3.51 xc:-0.45, yc:-1.32 vc:135.75 a:537.43, b:512.52, c:232.18, sv:32.73
+Results for -0.61_-1.48: max 8.20 xc:-0.75, yc:-1.32 vc:220.67 a:551.47, b:-215.30, c:527.23, sv:32.82
+Results for -0.61_-1.48: max 5.01 xc:-0.45, yc:-1.32 vc:289.83 a:513.25, b:510.70, c:85.87, sv:32.64
+Trying grid point -0.61_-1.16 (-0.77 to -0.45,-1.32 to -1.00) (data-points (3s) 8619 (84169.92 points/kpc2))
+ fit -0.61_-1.16 with 1 gaussians: bic:4350175252.46 (-99999995649824752.00)
+ fit -0.61_-0.84 with 6 gaussians: bic:2085042818.57 (-264417591.38)
+ fit -0.61_-1.16 with 2 gaussians: bic:2944333760.65 (-1405841491.82)
+ fit -0.61_-1.16 with 3 gaussians: bic:2616730069.29 (-327603691.35)
+ fit -0.29_-2.44 with 5 gaussians: bic:1021407358.01 (-60122088.78)
+ fit -0.29_-3.08 with 5 gaussians: bic:1782921793.27 (87674864.25)
+Found 4 clouds in -0.29_-3.08 grid point
+Results for -0.29_-3.08: max 4.88 xc:-0.22, yc:-3.04 vc:206.56 a:499.93, b:83.90, c:82.99, sv:20.52
+Results for -0.29_-3.08: max 14.33 xc:-0.14, yc:-3.14 vc:282.81 a:397.89, b:408.25, c:526.32, sv:20.28
+Results for -0.29_-3.08: max 24.09 xc:-0.13, yc:-3.00 vc:265.69 a:316.86, b:123.84, c:206.05, sv:20.09
+Results for -0.29_-3.08: max 15.56 xc:-0.15, yc:-3.16 vc:271.56 a:129.59, b:-256.84, c:99.57, sv:20.20
+ fit -0.29_-0.84 with 6 gaussians: bic:2208379586.38 (-57546307.09)
+ fit -0.61_-1.16 with 4 gaussians: bic:2099082109.28 (-517647960.01)
+ fit 0.03_-3.08 with 6 gaussians: bic:2486531914.29 (-117288102.69)
+ fit 0.03_-1.48 with 7 gaussians: bic:741081755.45 (15578183.76)
+Found 6 clouds in 0.03_-1.48 grid point
+Results for 0.03_-1.48: max 2.81 xc:-0.13, yc:-1.61 vc:150.63 a:547.89, b:48.29, c:444.72, sv:31.73
+Results for 0.03_-1.48: max 2.85 xc:-0.05, yc:-1.36 vc:314.06 a:300.31, b:380.96, c:394.27, sv:30.61
+Results for 0.03_-1.48: max 22.02 xc:-0.12, yc:-1.33 vc:155.70 a:394.30, b:-74.32, c:317.79, sv:20.26
+Results for 0.03_-1.48: max 6.57 xc:0.06, yc:-1.63 vc:173.86 a:499.17, b:281.85, c:537.78, sv:21.73
+Results for 0.03_-1.48: max 4.72 xc:-0.12, yc:-1.34 vc:235.51 a:195.88, b:177.46, c:395.39, sv:27.65
+Results for 0.03_-1.48: max 10.61 xc:0.01, yc:-1.34 vc:129.04 a:456.11, b:-201.51, c:278.48, sv:20.11
+Trying grid point 0.03_-1.16 (-0.13 to 0.19,-1.32 to -1.00) (data-points (3s) 7700 (75195.31 points/kpc2))
+ fit 0.03_-1.16 with 1 gaussians: bic:4198731672.33 (-99999995801268320.00)
+ fit 0.03_-1.16 with 2 gaussians: bic:3151257175.91 (-1047474496.42)
+ fit 0.03_0.76 with 6 gaussians: bic:732878209.80 (131853.41)
+Found 5 clouds in 0.03_0.76 grid point
+Results for 0.03_0.76: max 8.44 xc:-0.13, yc:0.87 vc:-68.72 a:518.55, b:-0.80, c:224.32, sv:20.66
+Results for 0.03_0.76: max 2.83 xc:0.06, yc:0.63 vc:-138.39 a:278.16, b:266.71, c:430.05, sv:22.45
+Results for 0.03_0.76: max 35.07 xc:0.07, yc:0.61 vc:-186.26 a:544.17, b:328.16, c:532.88, sv:21.69
+Results for 0.03_0.76: max 11.55 xc:-0.05, yc:0.60 vc:-102.61 a:242.20, b:-69.75, c:510.45, sv:27.98
+Results for 0.03_0.76: max 10.74 xc:-0.02, yc:0.63 vc:-167.81 a:509.71, b:168.99, c:532.26, sv:31.95
+ fit 0.03_-1.16 with 3 gaussians: bic:2724254934.68 (-427002241.24)
+ fit -0.29_-1.48 with 7 gaussians: bic:2359121667.37 (-307074174.34)
+ fit -0.29_-2.12 with 7 gaussians: bic:1288397478.52 (1914775.36)
+Found 6 clouds in -0.29_-2.12 grid point
+Results for -0.29_-2.12: max 14.09 xc:-0.27, yc:-2.11 vc:227.77 a:552.88, b:71.57, c:388.82, sv:20.42
+Results for -0.29_-2.12: max 3.11 xc:-0.29, yc:-2.19 vc:119.72 a:507.10, b:-248.94, c:190.32, sv:24.96
+Results for -0.29_-2.12: max 10.32 xc:-0.28, yc:-2.24 vc:242.88 a:219.80, b:-111.63, c:517.58, sv:20.17
+Results for -0.29_-2.12: max 3.30 xc:-0.26, yc:-2.26 vc:146.17 a:415.00, b:-26.18, c:164.02, sv:25.66
+Results for -0.29_-2.12: max 7.04 xc:-0.13, yc:-1.98 vc:207.93 a:472.51, b:297.99, c:300.30, sv:28.66
+Results for -0.29_-2.12: max 3.22 xc:-0.17, yc:-1.97 vc:132.67 a:77.06, b:72.29, c:441.97, sv:24.17
+Trying grid point -0.29_-1.80 (-0.45 to -0.13,-1.96 to -1.64) (data-points (3s) 3876 (37851.56 points/kpc2))
+ fit 0.35_-0.20 with 7 gaussians: bic:1898843475.15 (-36689884.71)
+ fit -0.29_-1.80 with 1 gaussians: bic:1865818751.68 (-99999998134181248.00)
+ fit -0.29_-1.80 with 2 gaussians: bic:1668315106.56 (-197503645.13)
+ fit 0.03_1.40 with 6 gaussians: bic:1030297997.30 (21307955.58)
+Found 5 clouds in 0.03_1.40 grid point
+Results for 0.03_1.40: max 8.35 xc:-0.02, yc:1.47 vc:-151.80 a:267.18, b:421.47, c:388.19, sv:20.33
+Results for 0.03_1.40: max 3.91 xc:-0.08, yc:1.30 vc:-202.22 a:273.22, b:350.84, c:507.72, sv:23.78
+Results for 0.03_1.40: max 7.73 xc:-0.06, yc:1.55 vc:-163.09 a:218.30, b:-16.75, c:490.60, sv:24.30
+Results for 0.03_1.40: max 9.22 xc:-0.12, yc:1.38 vc:-132.09 a:553.36, b:427.23, c:205.67, sv:20.01
+Results for 0.03_1.40: max 5.49 xc:0.18, yc:1.55 vc:-191.28 a:491.84, b:374.89, c:99.11, sv:28.32
+ fit -0.29_-2.44 with 6 gaussians: bic:1051194528.77 (29787170.75)
+Found 5 clouds in -0.29_-2.44 grid point
+Results for -0.29_-2.44: max 6.89 xc:-0.19, yc:-2.41 vc:202.64 a:337.37, b:127.34, c:550.54, sv:26.30
+Results for -0.29_-2.44: max 16.08 xc:-0.23, yc:-2.44 vc:242.57 a:518.20, b:-68.85, c:550.67, sv:20.12
+Results for -0.29_-2.44: max 3.54 xc:-0.15, yc:-2.43 vc:134.65 a:449.84, b:-20.85, c:521.73, sv:20.91
+Results for -0.29_-2.44: max 4.99 xc:-0.31, yc:-2.36 vc:137.63 a:541.61, b:56.60, c:476.42, sv:22.88
+Results for -0.29_-2.44: max 12.56 xc:-0.33, yc:-2.34 vc:242.13 a:543.79, b:85.79, c:503.36, sv:20.08
+ fit -0.29_-1.80 with 3 gaussians: bic:1460358577.54 (-207956529.01)
+ fit -0.29_3.00 with 6 gaussians: bic:224209209.95 (3672905.65)
+Found 5 clouds in -0.29_3.00 grid point
+Results for -0.29_3.00: max 2.50 xc:-0.31, yc:2.85 vc:-222.62 a:547.10, b:151.16, c:517.89, sv:20.00
+Results for -0.29_3.00: max 7.22 xc:-0.13, yc:2.84 vc:-216.28 a:467.17, b:-405.69, c:528.54, sv:20.00
+Results for -0.29_3.00: max 6.71 xc:-0.31, yc:2.85 vc:-222.64 a:547.36, b:175.85, c:529.45, sv:20.00
+Results for -0.29_3.00: max 2.50 xc:-0.13, yc:2.84 vc:-310.67 a:449.39, b:-374.84, c:545.16, sv:20.00
+Results for -0.29_3.00: max 2.50 xc:-0.32, yc:2.84 vc:157.75 a:520.14, b:-80.50, c:502.01, sv:20.00
+Trying grid point -0.29_3.32 (-0.45 to -0.13,3.16 to 3.48) (data-points (3s) 3 (29.30 points/kpc2))
+ fit -0.61_-1.16 with 5 gaussians: bic:1895913392.94 (-203168716.34)
+ fit 0.03_-1.16 with 4 gaussians: bic:2273836180.79 (-450418753.89)
+ fit -0.29_-1.80 with 4 gaussians: bic:1301971700.41 (-158386877.13)
+ fit -0.29_-0.20 with 7 gaussians: bic:1054137574.71 (-12505450.42)
+ fit 0.03_-0.84 with 7 gaussians: bic:1224318662.40 (-13807907.01)
+ fit 0.99_0.12 with 6 gaussians: bic:263117831.61 (-40472.83)
+ fit -0.29_-1.80 with 5 gaussians: bic:1240075833.37 (-61895867.04)
+ fit 0.03_-1.16 with 5 gaussians: bic:2287211732.50 (13375551.72)
+Found 4 clouds in 0.03_-1.16 grid point
+Results for 0.03_-1.16: max 22.76 xc:-0.02, yc:-1.21 vc:118.35 a:273.74, b:200.28, c:255.34, sv:20.20
+Results for 0.03_-1.16: max 22.56 xc:-0.11, yc:-1.00 vc:131.48 a:199.14, b:458.30, c:473.99, sv:30.44
+Results for 0.03_-1.16: max 5.95 xc:-0.12, yc:-1.26 vc:294.26 a:140.24, b:-62.82, c:86.59, sv:32.41
+Results for 0.03_-1.16: max 20.53 xc:-0.13, yc:-1.30 vc:145.29 a:84.92, b:-20.39, c:178.45, sv:20.42
+ fit 0.03_-0.20 with 8 gaussians: bic:1564081884.54 (-100664699.07)
+ fit -0.29_2.36 with 7 gaussians: bic:509072550.30 (4591142.31)
+Found 6 clouds in -0.29_2.36 grid point
+Results for -0.29_2.36: max 19.13 xc:-0.15, yc:2.50 vc:-255.38 a:552.53, b:334.71, c:538.01, sv:20.50
+Results for -0.29_2.36: max 3.57 xc:-0.14, yc:2.50 vc:-100.27 a:241.77, b:-167.63, c:476.45, sv:21.07
+Results for -0.29_2.36: max 2.66 xc:-0.14, yc:2.51 vc:9.08 a:506.66, b:423.96, c:332.64, sv:24.94
+Results for -0.29_2.36: max 3.33 xc:-0.17, yc:2.50 vc:-208.33 a:544.32, b:8.49, c:379.89, sv:21.60
+Results for -0.29_2.36: max 6.19 xc:-0.24, yc:2.25 vc:-188.38 a:508.72, b:240.07, c:521.29, sv:20.49
+Results for -0.29_2.36: max 3.89 xc:-0.25, yc:2.26 vc:-251.56 a:520.20, b:148.95, c:552.82, sv:20.61
+Trying grid point -0.29_2.68 (-0.45 to -0.13,2.52 to 2.84) (data-points (3s) 1806 (17636.72 points/kpc2))
+ fit -0.29_2.68 with 1 gaussians: bic:945958268.34 (-99999999054041728.00)
+ fit -0.29_2.68 with 2 gaussians: bic:838875760.45 (-107082507.89)
+ fit -0.61_-0.84 with 7 gaussians: bic:2115885267.60 (30842449.03)
+Found 6 clouds in -0.61_-0.84 grid point
+Results for -0.61_-0.84: max 15.46 xc:-0.52, yc:-0.79 vc:264.36 a:552.75, b:239.70, c:77.38, sv:31.98
+Results for -0.61_-0.84: max 6.97 xc:-0.64, yc:-0.87 vc:201.92 a:435.31, b:-108.02, c:268.70, sv:31.32
+Results for -0.61_-0.84: max 28.89 xc:-0.46, yc:-0.88 vc:304.51 a:534.69, b:498.20, c:426.03, sv:25.33
+Results for -0.61_-0.84: max 5.97 xc:-0.58, yc:-0.95 vc:131.19 a:147.27, b:-194.88, c:86.31, sv:26.87
+Results for -0.61_-0.84: max 14.03 xc:-0.46, yc:-0.80 vc:211.27 a:520.63, b:339.43, c:438.76, sv:20.47
+Results for -0.61_-0.84: max 11.84 xc:-0.53, yc:-0.96 vc:264.64 a:95.38, b:163.48, c:252.05, sv:29.82
+Trying grid point -0.61_-0.52 (-0.77 to -0.45,-0.68 to -0.36) (data-points (3s) 3988 (38945.31 points/kpc2))
+ fit -0.29_-0.84 with 7 gaussians: bic:2095643882.11 (-112735704.27)
+ fit -0.61_-0.52 with 1 gaussians: bic:2116476195.78 (-99999997883523808.00)
+ fit -0.29_2.68 with 3 gaussians: bic:768190825.97 (-70684934.48)
+ fit -0.61_-0.52 with 2 gaussians: bic:1689816874.42 (-426659321.36)
+ fit -0.61_-0.52 with 3 gaussians: bic:1562203217.22 (-127613657.20)
+ fit -0.29_-1.80 with 6 gaussians: bic:1239818374.01 (-257459.36)
+ fit -0.29_2.68 with 4 gaussians: bic:733205036.12 (-34985789.85)
+ fit -0.61_-1.16 with 6 gaussians: bic:1857975355.69 (-37938037.25)
+ fit -0.61_-0.52 with 4 gaussians: bic:1245093343.70 (-317109873.52)
+ fit 0.03_-3.08 with 7 gaussians: bic:2582456819.84 (95924905.56)
+Found 6 clouds in 0.03_-3.08 grid point
+Results for 0.03_-3.08: max 38.77 xc:-0.10, yc:-3.01 vc:261.05 a:538.37, b:92.74, c:320.15, sv:20.35
+Results for 0.03_-3.08: max 20.66 xc:-0.04, yc:-3.01 vc:290.95 a:448.58, b:289.91, c:358.95, sv:20.14
+Results for 0.03_-3.08: max 7.93 xc:0.08, yc:-3.17 vc:275.61 a:381.84, b:91.57, c:142.51, sv:24.14
+Results for 0.03_-3.08: max 3.44 xc:0.03, yc:-3.10 vc:214.04 a:243.61, b:264.91, c:205.45, sv:21.50
+Results for 0.03_-3.08: max 28.64 xc:-0.13, yc:-3.13 vc:282.28 a:224.52, b:114.46, c:450.33, sv:21.54
+Results for 0.03_-3.08: max 10.75 xc:-0.07, yc:-3.23 vc:250.43 a:226.43, b:63.95, c:262.94, sv:25.75
+ fit -0.61_-0.52 with 5 gaussians: bic:1251068833.39 (5975489.68)
+Found 4 clouds in -0.61_-0.52 grid point
+Results for -0.61_-0.52: max 14.86 xc:-0.52, yc:-0.65 vc:269.29 a:554.39, b:73.86, c:416.51, sv:21.57
+Results for -0.61_-0.52: max 41.35 xc:-0.51, yc:-0.54 vc:235.65 a:550.47, b:142.15, c:345.23, sv:20.04
+Results for -0.61_-0.52: max 6.89 xc:-0.50, yc:-0.65 vc:94.94 a:453.81, b:120.32, c:92.36, sv:29.25
+Results for -0.61_-0.52: max 6.09 xc:-0.50, yc:-0.41 vc:51.03 a:461.18, b:383.58, c:256.96, sv:25.30
+ fit -0.29_2.68 with 5 gaussians: bic:730039303.77 (-3165732.35)
+ fit 0.03_-0.84 with 8 gaussians: bic:1227834634.31 (3515971.91)
+Found 7 clouds in 0.03_-0.84 grid point
+Results for 0.03_-0.84: max 22.65 xc:0.02, yc:-0.69 vc:109.34 a:450.50, b:522.49, c:293.34, sv:21.39
+Results for 0.03_-0.84: max 8.06 xc:-0.05, yc:-0.81 vc:147.46 a:312.85, b:240.00, c:291.40, sv:22.84
+Results for 0.03_-0.84: max 8.38 xc:-0.08, yc:-0.86 vc:177.35 a:398.82, b:79.72, c:285.41, sv:30.47
+Results for 0.03_-0.84: max 17.91 xc:-0.04, yc:-0.77 vc:141.75 a:492.96, b:-60.37, c:441.24, sv:20.05
+Results for 0.03_-0.84: max 31.60 xc:-0.10, yc:-0.98 vc:127.26 a:271.73, b:175.49, c:244.64, sv:26.58
+Results for 0.03_-0.84: max 2.70 xc:-0.10, yc:-0.94 vc:283.74 a:458.61, b:-192.99, c:210.86, sv:26.09
+Results for 0.03_-0.84: max 3.29 xc:-0.06, yc:-0.82 vc:78.40 a:159.21, b:-6.41, c:168.90, sv:21.89
+Trying grid point 0.03_-0.52 (-0.13 to 0.19,-0.68 to -0.36) (data-points (3s) 3949 (38564.45 points/kpc2))
+ fit 0.03_-0.52 with 1 gaussians: bic:2324245010.25 (-99999997675754992.00)
+ fit 0.03_-0.52 with 2 gaussians: bic:1565867367.31 (-758377642.94)
+ fit 0.35_-0.20 with 8 gaussians: bic:1762816569.19 (-136026905.97)
+ fit 0.03_-0.52 with 3 gaussians: bic:1347261964.08 (-218605403.23)
+ fit -0.29_-1.80 with 7 gaussians: bic:1184548971.02 (-55269402.99)
+ fit -0.29_-0.20 with 8 gaussians: bic:1053740562.10 (-397012.61)
+ fit 0.03_-0.52 with 4 gaussians: bic:1250444526.18 (-96817437.90)
+ fit -0.29_2.68 with 6 gaussians: bic:732671095.15 (2631791.38)
+Found 5 clouds in -0.29_2.68 grid point
+Results for -0.29_2.68: max 15.96 xc:-0.16, yc:2.57 vc:-260.16 a:452.93, b:-133.54, c:232.35, sv:20.10
+Results for -0.29_2.68: max 2.63 xc:-0.18, yc:2.52 vc:-127.03 a:268.51, b:232.32, c:483.14, sv:28.08
+Results for -0.29_2.68: max 7.03 xc:-0.15, yc:2.59 vc:-203.37 a:421.75, b:-304.75, c:248.53, sv:20.77
+Results for -0.29_2.68: max 3.92 xc:-0.14, yc:2.81 vc:-212.45 a:520.78, b:267.65, c:339.25, sv:22.65
+Results for -0.29_2.68: max 6.88 xc:-0.32, yc:2.84 vc:-225.26 a:517.90, b:-341.65, c:458.84, sv:21.77
+ fit -0.61_-1.16 with 7 gaussians: bic:1804039534.40 (-53935821.29)
+ fit -0.29_-1.48 with 8 gaussians: bic:2401401676.26 (42280008.89)
+Found 7 clouds in -0.29_-1.48 grid point
+Results for -0.29_-1.48: max 4.95 xc:-0.20, yc:-1.51 vc:172.70 a:103.56, b:187.94, c:99.86, sv:31.17
+Results for -0.29_-1.48: max 7.52 xc:-0.27, yc:-1.59 vc:327.71 a:355.90, b:98.10, c:214.78, sv:31.12
+Results for -0.29_-1.48: max 15.41 xc:-0.39, yc:-1.33 vc:272.22 a:480.59, b:134.23, c:276.51, sv:28.85
+Results for -0.29_-1.48: max 5.39 xc:-0.35, yc:-1.40 vc:123.11 a:147.59, b:29.86, c:80.16, sv:20.86
+Results for -0.29_-1.48: max 16.52 xc:-0.29, yc:-1.40 vc:316.41 a:322.76, b:-21.09, c:214.47, sv:20.51
+Results for -0.29_-1.48: max 8.51 xc:-0.29, yc:-1.51 vc:264.92 a:117.28, b:-14.12, c:79.96, sv:32.85
+Results for -0.29_-1.48: max 13.48 xc:-0.15, yc:-1.35 vc:161.59 a:156.99, b:-168.15, c:273.91, sv:23.34
+Trying grid point -0.29_-1.16 (-0.45 to -0.13,-1.32 to -1.00) (data-points (3s) 15992 (156171.88 points/kpc2))
+ fit -0.29_-1.16 with 1 gaussians: bic:9986026520.41 (-99999990013973472.00)
+ fit -0.29_-1.16 with 2 gaussians: bic:6574561893.89 (-3411464626.52)
+ fit -0.29_-1.16 with 3 gaussians: bic:5007771762.70 (-1566790131.19)
+ fit 0.03_-0.52 with 5 gaussians: bic:1264393411.20 (13948885.02)
+Found 4 clouds in 0.03_-0.52 grid point
+Results for 0.03_-0.52: max 4.81 xc:-0.01, yc:-0.40 vc:88.33 a:320.70, b:542.87, c:468.03, sv:32.29
+Results for 0.03_-0.52: max 18.66 xc:0.07, yc:-0.56 vc:78.39 a:431.68, b:-233.85, c:201.46, sv:20.00
+Results for 0.03_-0.52: max 19.62 xc:0.02, yc:-0.68 vc:109.68 a:456.43, b:222.03, c:548.68, sv:20.01
+Results for 0.03_-0.52: max 23.85 xc:0.14, yc:-0.41 vc:59.03 a:426.37, b:234.14, c:224.92, sv:20.00
+ fit -0.29_-1.16 with 4 gaussians: bic:4558176070.15 (-449595692.55)
+ fit -0.29_-1.80 with 8 gaussians: bic:1191679685.56 (7130714.54)
+Found 7 clouds in -0.29_-1.80 grid point
+Results for -0.29_-1.80: max 8.92 xc:-0.41, yc:-1.73 vc:151.58 a:452.36, b:65.76, c:508.49, sv:27.03
+Results for -0.29_-1.80: max 3.99 xc:-0.22, yc:-1.95 vc:232.21 a:146.50, b:87.26, c:430.64, sv:25.83
+Results for -0.29_-1.80: max 4.39 xc:-0.22, yc:-1.68 vc:162.40 a:269.78, b:85.19, c:480.63, sv:32.81
+Results for -0.29_-1.80: max 3.37 xc:-0.41, yc:-1.76 vc:164.89 a:473.09, b:70.50, c:426.60, sv:23.62
+Results for -0.29_-1.80: max 8.62 xc:-0.18, yc:-1.91 vc:127.46 a:454.51, b:-140.99, c:455.39, sv:20.69
+Results for -0.29_-1.80: max 6.81 xc:-0.26, yc:-1.67 vc:371.73 a:484.98, b:214.78, c:321.25, sv:31.75
+Results for -0.29_-1.80: max 3.44 xc:-0.30, yc:-1.66 vc:244.72 a:101.15, b:-61.65, c:308.67, sv:27.49
+ fit -0.29_-0.84 with 8 gaussians: bic:2122354867.47 (26710985.35)
+Found 7 clouds in -0.29_-0.84 grid point
+Results for -0.29_-0.84: max 12.59 xc:-0.30, yc:-0.99 vc:197.88 a:98.41, b:139.91, c:94.96, sv:24.35
+Results for -0.29_-0.84: max 18.10 xc:-0.44, yc:-0.97 vc:283.35 a:145.25, b:535.76, c:94.54, sv:22.91
+Results for -0.29_-0.84: max 16.55 xc:-0.14, yc:-0.98 vc:122.43 a:121.13, b:-89.67, c:124.34, sv:32.11
+Results for -0.29_-0.84: max 14.65 xc:-0.41, yc:-1.00 vc:329.89 a:336.23, b:445.83, c:161.93, sv:31.67
+Results for -0.29_-0.84: max 3.00 xc:-0.22, yc:-0.91 vc:350.44 a:304.68, b:502.41, c:322.98, sv:28.70
+Results for -0.29_-0.84: max 9.52 xc:-0.34, yc:-0.80 vc:123.35 a:194.48, b:-95.27, c:77.62, sv:29.83
+Results for -0.29_-0.84: max 4.30 xc:-0.28, yc:-0.83 vc:265.05 a:225.05, b:282.44, c:140.99, sv:27.00
+Trying grid point -0.29_-0.52 (-0.45 to -0.13,-0.68 to -0.36) (data-points (3s) 3095 (30224.61 points/kpc2))
+ fit -0.29_-0.52 with 1 gaussians: bic:1251822001.07 (-99999998748178000.00)
+ fit -0.29_-0.52 with 2 gaussians: bic:1014035306.06 (-237786695.01)
+ fit -0.29_-0.52 with 3 gaussians: bic:983521915.59 (-30513390.48)
+ fit -0.29_-0.52 with 4 gaussians: bic:959784080.56 (-23737835.02)
+ fit -0.29_-1.16 with 5 gaussians: bic:3891298947.16 (-666877122.99)
+ fit 0.99_0.12 with 7 gaussians: bic:271546710.45 (8428878.84)
+Found 6 clouds in 0.99_0.12 grid point
+Results for 0.99_0.12: max 2.50 xc:1.15, yc:0.01 vc:-300.75 a:461.59, b:204.81, c:523.54, sv:20.00
+Results for 0.99_0.12: max 2.50 xc:1.15, yc:-0.04 vc:251.09 a:341.80, b:-428.86, c:463.13, sv:23.33
+Results for 0.99_0.12: max 5.13 xc:1.15, yc:-0.04 vc:40.58 a:464.36, b:-337.32, c:428.76, sv:20.00
+Results for 0.99_0.12: max 2.50 xc:1.15, yc:0.12 vc:-154.90 a:438.71, b:-65.64, c:534.77, sv:20.00
+Results for 0.99_0.12: max 2.55 xc:1.03, yc:0.28 vc:54.90 a:518.67, b:-268.84, c:473.66, sv:20.00
+Results for 0.99_0.12: max 13.40 xc:1.15, yc:0.10 vc:29.56 a:548.08, b:303.55, c:534.30, sv:20.00
+ fit 0.03_-0.20 with 9 gaussians: bic:1576281006.45 (12199121.91)
+Found 8 clouds in 0.03_-0.20 grid point
+Results for 0.03_-0.20: max 17.28 xc:0.13, yc:-0.35 vc:56.38 a:511.79, b:-241.70, c:419.18, sv:20.46
+Results for 0.03_-0.20: max 3.77 xc:0.06, yc:-0.20 vc:-48.34 a:507.48, b:401.10, c:228.18, sv:31.34
+Results for 0.03_-0.20: max 10.72 xc:0.09, yc:-0.17 vc:-99.50 a:406.89, b:197.93, c:307.38, sv:26.53
+Results for 0.03_-0.20: max 14.97 xc:0.14, yc:-0.22 vc:83.91 a:458.33, b:176.41, c:347.94, sv:20.76
+Results for 0.03_-0.20: max 4.09 xc:-0.07, yc:-0.33 vc:78.03 a:154.83, b:52.84, c:374.34, sv:32.32
+Results for 0.03_-0.20: max 16.66 xc:0.08, yc:-0.11 vc:-166.60 a:551.45, b:376.71, c:528.35, sv:24.48
+Results for 0.03_-0.20: max 32.64 xc:0.14, yc:-0.21 vc:-3.93 a:476.59, b:352.35, c:529.93, sv:28.25
+Results for 0.03_-0.20: max 8.96 xc:0.01, yc:-0.28 vc:48.99 a:527.24, b:107.59, c:483.93, sv:31.23
+Trying grid point 0.03_0.12 (-0.13 to 0.19,-0.04 to 0.28) (data-points (3s) 8432 (82343.75 points/kpc2))
+ fit 0.03_0.12 with 1 gaussians: bic:5504039581.89 (-99999994495960416.00)
+ fit 0.03_0.12 with 2 gaussians: bic:4021552562.56 (-1482487019.33)
+ fit 0.03_0.12 with 3 gaussians: bic:2693024390.71 (-1328528171.85)
+ fit -0.29_-0.52 with 5 gaussians: bic:932528244.01 (-27255836.55)
+ fit -0.61_-1.16 with 8 gaussians: bic:1802062221.87 (-1977312.53)
+ fit 0.03_0.12 with 4 gaussians: bic:2238088445.64 (-454935945.07)
+ fit -0.29_-0.52 with 6 gaussians: bic:926478676.83 (-6049567.19)
+ fit -0.29_-1.16 with 6 gaussians: bic:3449881777.33 (-441417169.83)
+ fit 0.03_0.12 with 5 gaussians: bic:2055210991.17 (-182877454.47)
